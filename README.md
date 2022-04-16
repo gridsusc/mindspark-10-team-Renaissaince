@@ -1,5 +1,5 @@
 # mindspark-10-team-Renaissaince
-This application can recognize your emotion from photo or speech using ML models. It will recommend some songs that are fit to your emotions. It is good for your mental health.
+This application can recognize your emotion from photo or speech using ML models. It will recommend some songs that are fit to your emotions. If you fail into bad emotions many times, it will give you a warning. It is good for your mental health.
 
 
 Disclaimer:
