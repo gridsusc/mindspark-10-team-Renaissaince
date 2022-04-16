@@ -33,8 +33,8 @@ def import_and_predict(img, model):
     return prediction
 
 
-if 'account' not in st.session_state:
-    st.session_state.account = dict()
+if 'count' not in st.session_state:
+    st.session_state.count = 0
 st.write("""
          # Emotion recognition
          """
@@ -69,16 +69,18 @@ if st.session_state.img:
         if res.argmax() ==0:
             st.write("anger")
             st.write("Recommended songs for you:")
-            st.write(d[d["emotion"] == "Dark" or d["emotion"] == "Aggressive"]["song"])
-
+            st.write(d[d["emotion"] == "Aggressive"][["song",'artist']][0:5])
+            st.session_state.count += 2
         elif res.argmax() ==1:
             st.write("disgust")
             st.write("Recommended songs for you:")
             st.write(d[d["emotion"] == "Dark"][["song",'artist']][0:5])
+            st.session_state.count += 1
         elif res.argmax() == 2:
             st.write("fear")
             st.write("Recommended songs for you:")
             st.write(d[d["emotion"] == "Relaxing"][["song",'artist']][0:5])
+            st.session_state.count += 1
         elif res.argmax() == 3:
             st.write("happiness")
             st.write("Recommended songs for you:")
@@ -86,11 +88,12 @@ if st.session_state.img:
         elif res.argmax() == 4:
             st.write("sadness")
             st.write("Recommended songs for you:")
-            st.write(d[d["emotion"] == "Dark"]["song"])
+            st.write(d[d["emotion"] == "Dark"][["song",'artist']][0:5])
+            st.session_state.count += 2
         elif res.argmax() == 5:
             st.write("surprise")
             st.write("Recommended songs for you:")
-            st.write(d[d["emotion"] == "Happy" or d["emotion"] == "Energetic"][["song",'artist']][0:5])
+            st.write(d[d["emotion"] == "Energetic"][["song",'artist']][0:5])
         elif res.argmax() == 6:
             st.write("neutral")
             st.write("Recommended songs for you:")
@@ -119,9 +122,15 @@ if st.session_state.spe:
             elif a in ['remorse','sadness','confusion']:
                 st.write("Recommended songs for you:")
                 st.write(d[d["emotion"] == "Dark"][["song",'artist']][0:5])
+                st.session_state.count += 1
             elif a in ['anger','disapproval','annoyance']:
                 st.write("Recommended songs for you:")
                 st.write(d[d["emotion"] == "Aggressive"][["song",'artist']][0:5])
+                st.session_state.count += 2
             elif a in ['disappointment','disgust']:
                 st.write("Recommended songs for you:")
                 st.write(d[d["emotion"] == "Relaxing"][["song",'artist']][0:5])
+                st.session_state.count += 1
+
+if st.session_state.count >= 3:
+    st.write("You are in bad emotions too many times. Please do something happy or meet a doctor.")
