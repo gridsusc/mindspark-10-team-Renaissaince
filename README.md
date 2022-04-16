@@ -1,5 +1,5 @@
 # mindspark-10-team-Renaissaince
-This application can recognize your emotion from photo or speech using ML models. It will recommend some songs that are fit to your emotions. If you fail into bad emotions many times, it will give you a warning. It is good for your mental health.
+This application can recognize users' emotion from photo or speech using ML models. It will recommend some songs that are fit to users' emotions. If users fail into bad emotions many times, it will give users a warning. It is good for users' and comunities' mental health.
 
 
 Disclaimer:
@@ -10,5 +10,6 @@ Disclaimer:
   
 Instruction: 
   1. We cannot upload our saved model for image classification due to size limit. Please run emotion_recog.ipynb file first and save the model xcep.h5
-  2. To run the web application, open a terminal/cmd in this folder and run "streamlit run deplo.py"
-  3. Please check the required libraries for the web application in requirement.txt
+     We provide a Google Drive link for the model: https://drive.google.com/file/d/1hNq1qsNgjeD1G9fDgGtFIhcGGKA_ChGZ/view?usp=sharing
+  3. To run the web application, open a terminal/cmd in this folder and run "streamlit run deplo.py"
+  4. Please check the required libraries for the web application in requirement.txt
