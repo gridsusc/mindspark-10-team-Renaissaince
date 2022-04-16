@@ -1,6 +1,19 @@
 import spotipy
 import csv
 from spotipy.oauth2 import SpotifyOAuth
+import pickle
+import pandas as pd
+import xgboost as xgb
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(show_dialog = True, client_id="70d38d6792fd47338dcb482fc2aba603",
+                                                    client_secret="2c2566a941a3493aa33906cc59f93405",
+                                                    redirect_uri="http://localhost:8888/callback",
+                                                    scope="user-library-read"))
+
+user = sp.user("lwqh6n22yf8j1esekvl1dghpj")
+
+import spotipy
+import csv
+from spotipy.oauth2 import SpotifyOAuth
 
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(show_dialog = True, client_id="70d38d6792fd47338dcb482fc2aba603",
                                                     client_secret="2c2566a941a3493aa33906cc59f93405",
@@ -9,23 +22,15 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(show_dialog = True, client_id="70
 
 user = sp.user("lwqh6n22yf8j1esekvl1dghpj")
 
-sad_playlist = sp.playlist("7ABD15iASBIpPP5uJ5awvq")
-angry_playlist = sp.playlist("2gWbflBkAo4AtS36JcqMh6")
-happy_playlist = sp.playlist("6Qf2sXTjlH3HH30Ijo6AUp")
-fearful_playlist = sp.playlist("1vU3YBMMOFSLGa492uKjZu")
-calm_playlist = sp.playlist("6gCC8kozvUlLGTzl2YO2MR")
+headers = ["id","song","artist","album","popularity","duration", "danceability","energy","key","loudness","mode","speechiness","acousticness",
+"instrumentalness", "liveness", "valance", "tempo","emotion"]
 
-headers = ["id","song","artist","album","popularity","duration", "emotion", "danceability","energy","key","loudness","mode","speechiness","acousticness",
+columns = ["id","song","artist","album","popularity","duration", "danceability","energy","key","loudness","mode","speechiness","acousticness",
 "instrumentalness", "liveness", "valance", "tempo"]
 data = []
-sad_tracks = sad_playlist['tracks']
-angry_tracks = sad_playlist['tracks']
-happy_tracks = sad_playlist['tracks']
-fearful_tracks = fearful_playlist['tracks']
-calm_tracks = calm_playlist['tracks']
 
 ids = []
-def get_tracks(results, data, tag):
+def get_tracks(results, data):
     for i, item in enumerate(results['items']):
         track = item['track']
         if track:
@@ -33,15 +38,26 @@ def get_tracks(results, data, tag):
                         # data.append([track["id"], track["name"], track["artists"][0]["name"], track["album"]["name"]
                         #     ,track["popularity"], track["duration_ms"],track["album"]["images"][0]["url"]])
                     data.append([track["id"], track["name"], track["artists"][0]["name"], track["album"]["name"]
-                                ,track["popularity"], track["duration_ms"], tag])
+                                ,track["popularity"], track["duration_ms"]])
                     ids.append(track["id"])
 
 
-get_tracks(sad_tracks, data, "sad")
-get_tracks(angry_tracks, data, "angry")
-get_tracks(happy_tracks, data, "happy")
-get_tracks(fearful_tracks, data, "fearful")
-get_tracks(calm_tracks, data, "calm")
+first_user_playlists = sp.user_playlists("lwqh6n22yf8j1esekvl1dghpj")
+
+first_user_playlists_ids = []
+
+print("Scraping first user's playlists\n")
+for i, playlist in enumerate(first_user_playlists['items']):
+    first_user_playlists_ids.append(playlist['id'])
+
+for playlistId in first_user_playlists_ids:
+    results = sp.playlist(playlistId, fields="tracks,next")
+    tracks = results['tracks']
+    get_tracks(tracks, data)
+
+    while tracks['next']:
+        tracks = sp.next(tracks)
+        get_tracks(tracks, data)
 
 audio_features = []
 
@@ -61,8 +77,23 @@ for line in data:
     final.append(line)
     i = i + 1
 
+loaded_model = pickle.load(open("rfc.sav", 'rb'))
+X = pd.DataFrame(final, columns = columns)
+
+
+X = X[["energy", "liveness", "tempo", "speechiness","acousticness","instrumentalness","danceability", "loudness","valance"]]
+result = loaded_model.predict(X)
+
+final_2 = []
+i = 0
+for line in final:
+    line.append(result[i])
+    final_2.append(line)
+    print(line)
+    i = i + 1
 
 with open("songs.csv", 'w', encoding="utf-8", newline='') as csvfile: 
     csvwriter = csv.writer(csvfile) 
     csvwriter.writerow(headers) 
-    csvwriter.writerows(final)
+    csvwriter.writerows(final_2)
+
