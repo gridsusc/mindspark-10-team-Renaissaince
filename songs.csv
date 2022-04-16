@@ -1,0 +1,487 @@
+id,song,artist,album,popularity,duration,emotion,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valance,tempo
+2vBF8A6n0REigm7RSUM65S,The A Team,Ed Sheeran,The A Team,22,258588,sad,0.626,0.286,9,-9.933,1,0.0374,0.678,0,0.134,0.366,84.954
+7lPN2DXiMsVn7XUKtOW1CS,drivers license,Olivia Rodrigo,drivers license,33,242013,sad,0.585,0.436,10,-8.761,1,0.0601,0.721,1.31e-05,0.105,0.132,143.874
+7jtQIBanIiJOMS6RyCx6jZ,Another Love,Tom Odell,Long Way Down,57,244360,sad,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758
+4Of7rzpRpV1mWRbhp5rAqG,Bruises,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,81,220492,sad,0.736,0.308,4,-7.83,1,0.0677,0.946,0,0.186,0.361,111.202
+09u787BYeYIGd2mFIJ505t,Cry Your Heart Out,Adele,30,72,255278,sad,0.756,0.713,7,-6.917,1,0.102,0.523,3.35e-06,0.248,0.59,125.064
+1ZMiCix7XSAbfAJlEZWMCp,Falling,Harry Styles,Fine Line,87,240133,sad,0.567,0.267,4,-6.502,1,0.0299,0.839,1.46e-06,0.089,0.0592,110.011
+43zdsphuZLzwA9k4DJhU0I,when the party's over,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",83,196077,sad,0.367,0.111,4,-14.084,1,0.0972,0.978,3.97e-05,0.0897,0.198,82.642
+44V6EzbUSYgyfsNiP0FrlA,Visiting Hours,Ed Sheeran,Visiting Hours,75,215506,sad,0.471,0.396,8,-6.654,1,0.0336,0.77,0,0.0729,0.263,149.609
+0gplL1WMoJ6iYaPgMCL0gX,Easy On Me,Adele,Easy On Me,91,224694,sad,0.604,0.366,5,-7.519,1,0.0282,0.578,0,0.133,0.13,141.981
+4L2K7JKseFCBoHMZEAszW0,Jealous,Labrinth,Jealous,4,287693,sad,0.439,0.153,1,-8.95,1,0.0479,0.874,0,0.107,0.104,116.76
+45bE4HXI0AwGZXfZtMp8JR,you broke me first,Tate McRae,you broke me first,86,169265,sad,0.667,0.373,4,-9.389,1,0.05,0.785,0,0.0906,0.0823,124.148
+79Ey6OincHcHjtXR7Y5x21,"if you need to, keep time on me",Liush,"if you need to, keep time on me",34,212700,sad,0.22,0.0879,11,-19.441,1,0.0434,0.942,0.279,0.0761,0.143,164.578
+4xqrdfXkTW4T0RauPLv3WA,Heather,Conan Gray,Kid Krow,87,198040,sad,0.357,0.425,5,-7.301,1,0.0333,0.584,0,0.322,0.27,102.078
+7jqzZyJJLrpkRFYGpkqSK6,Breathe Me,Sia,Colour The Small One,65,272800,sad,0.552,0.643,0,-7.36,1,0.0327,0.0364,0.74,0.105,0.212,120.012
+1kAkUHFb7ryeVkVSRD6Nkj,Wish I Was Better,Kina,Wish I Was Better,67,140571,sad,0.732,0.304,0,-13.086,0,0.111,0.747,6.13e-05,0.143,0.185,139.965
+5RkhZf6mS0iWzsOZXQEUfL,Masterpiece,Liush,Masterpiece,32,192058,sad,0.516,0.219,5,-11.074,1,0.0855,0.813,9.59e-06,0.363,0.147,140.222
+1NyFRrFiJAJIaR6icj1goI,Skinny Love,Bon Iver,"For Emma, Forever Ago",1,238532,sad,0.592,0.256,4,-14.031,0,0.0449,0.842,2.38e-06,0.088,0.103,76.361
+1TQXIltqoZ5XXyfCbAeSQQ,Dancing With Your Ghost,Sasha Alex Sloan,Dancing With Your Ghost,81,197732,sad,0.629,0.328,11,-8.284,1,0.029,0.768,2.5e-05,0.103,0.389,74.953
+5JRHt05AAj0rgw8yWArDw5,Stayin' Alive,Caravn,Stayin' Alive,47,186131,sad,0.655,0.496,5,-7.677,0,0.129,0.0755,0,0.363,0.211,90.142
+1uVk6S6Fpkrmji0iTpgKEC,Long Way Down,Tom Odell,Long Way Down (Deluxe),59,149773,sad,0.368,0.121,6,-13.778,1,0.0315,0.972,0.0322,0.0871,0.0956,133.148
+6isTQfKXhNO3EyJd9mSxx8,AM I DREAMING (feat. Miley Cyrus),Lil Nas X,MONTERO,69,183241,sad,0.629,0.445,3,-6.999,1,0.0258,0.77,2.92e-06,0.351,0.209,94.103
+13HVjjWUZFaWilh2QUJKsP,Let It Go,James Bay,Chaos And The Calm,72,260533,sad,0.546,0.311,1,-10.396,1,0.0288,0.818,1.65e-05,0.107,0.246,147.464
+6CoC7nWbj6JiebN7IbJ0Z8,Same Old Mess,INTRN,Same Old Mess,42,120000,sad,0.64,0.177,2,-14.649,1,0.0298,0.906,0.00329,0.134,0.678,90.081
+1JDMO4EVPHtm0xXhJb2IjR,Youth,Daughter,The Wild Youth EP,0,251626,sad,0.588,0.477,9,-12.71,0,0.0492,0.61,0.00188,0.122,0.488,150.396
+5I6y1KWmUoV5YCaIEcs1qs,Should Have Known Better,Sufjan Stevens,Carrie & Lowell,8,307697,sad,0.571,0.172,7,-20.7,1,0.0318,0.979,0.275,0.124,0.297,90.972
+5cCj78DPk9iVZmrNWmYdPS,Say Something,Caravn,Say Something,14,221007,sad,0.536,0.165,1,-14.658,1,0.0338,0.608,0,0.11,0.15,138.758
+6QPKYGnAW9QozVz2dSWqRg,Someone Like You,Adele,21,5,285240,sad,0.554,0.321,9,-8.251,1,0.028,0.893,0,0.0996,0.288,135.047
+3H7oAhHxkEkSf9iomv2mbG,could cry just thinkin about you - Full Version,Troye Sivan,could cry just thinkin about you (Full Version),68,158000,sad,0.515,0.323,6,-11.05,1,0.0429,0.318,0,0.106,0.188,147.972
+1u71gNzUwTjgfYmArCUD0m,Friendly Fire,Holly Humberstone,The Walls Are Way Too Thin,55,222800,sad,0.465,0.602,10,-9.664,1,0.078,0.806,0.00145,0.101,0.595,159.905
+0W293G8NUJ55E29jH2NNUQ,Velvet Gun,LEFT.,Perspective,21,186000,sad,0.59,0.658,7,-7.19,1,0.0539,0.112,0.000218,0.115,0.444,154.926
+4NVwMupCTfITPXetR5aozp,pass you by,Alaina Castillo,the voicenotes,52,245945,sad,0.51,0.355,11,-6.883,1,0.0287,0.892,0,0.133,0.453,141.796
+3PJikMV2xGNCooQttQrAw5,Transatlanticism,Death Cab for Cutie,Transatlanticism,0,475093,sad,0.443,0.466,9,-9.209,1,0.0302,0.393,0.647,0.165,0.19,127.493
+0PKAijroHpnEtdY20bkGdr,ghost town (voice memo),Chloe George,ghost town (voice memo),70,137250,sad,0.471,0.229,8,-6.504,1,0.0358,0.953,0,0.0909,0.358,68.41
+4XCnRvggQILzbtbV0VzgFU,I Will Survive,High Tropics,love 2.0,28,227554,sad,0.491,0.815,11,-6.502,0,0.0577,0.215,1.23e-05,0.224,0.49,93.978
+6XRNCAnxJIB1p4RPdFVSq0,People Help the People,Birdy,Birdy (Deluxe Version),57,256236,sad,0.407,0.308,10,-9.001,0,0.0296,0.778,1.46e-05,0.092,0.153,73.254
+6P57z7wZlYxmNxXCihQSwn,Foreign tree,Liush,Foreign tree,28,205181,sad,0.274,0.182,9,-16.843,1,0.033,0.818,0.0688,0.153,0.0973,156.763
+1nYzjrdVQ8RpF93M0jPFW7,Remember That Night?,Sara Kays,Remember That Night?,79,227186,sad,0.679,0.61,7,-10.936,0,0.0305,0.585,9.51e-05,0.156,0.554,123.978
+3L769KtCDRPoektqIEqQ5j,Lost in a City,Paul the Neighbour,Lost in a City,32,223500,sad,0.335,0.512,1,-11.304,1,0.0404,0.0455,2.72e-05,0.127,0.209,124.873
+13CVSGLSFl4UxpDVR6u3dq,Strangers By Nature,Adele,30,72,182163,sad,0.387,0.253,5,-8.901,1,0.0336,0.798,0.000159,0.0848,0.134,68.004
+7aroxbyBcFzfmsjdRBV6cT,Julia,little dipper,Julia,34,207630,sad,0.621,0.627,7,-8.114,1,0.0383,0.587,0,0.099,0.37,131.086
+2yoaXLItTfWNpdFFpdF3Ti,June,Florence + The Machine,High As Hope,54,221973,sad,0.363,0.362,5,-8.516,1,0.0339,0.28,2.03e-06,0.142,0.179,146.104
+6DzvC1VHpyTFfLBbAYBa7W,Bird,Billie Marten,Writing of Blues and Yellows (Deluxe Version),51,220640,sad,0.235,0.187,6,-12.754,1,0.0347,0.988,0.00197,0.106,0.118,85.962
+6fXTnGpl48gI5FQZOxhcOV,Like You Never Did,Johnning,Like You Never Did,47,182126,sad,0.406,0.477,7,-8.291,1,0.0321,0.64,0,0.154,0.21,147.172
+1OdYu7mDO94ydUvfZPaPvP,I Can't Help (with Sarcastic Sounds),Shoffy,I Can't Help (with Sarcastic Sounds),1,121250,sad,0.714,0.4,2,-8.264,1,0.0618,0.393,0.000718,0.109,0.318,81.974
+7LVHVU3tWfcxj5aiPFEW4Q,Fix You,Coldplay,X&Y,84,295533,sad,0.209,0.417,3,-8.74,1,0.0338,0.164,0.00196,0.113,0.124,138.178
+06p20tdVnOEUtVTKtmUXGW,Rest,LEFT.,Rest,45,231617,sad,0.354,0.456,7,-11.524,1,0.147,0.316,1.39e-05,0.115,0.246,155.712
+3iiL6merNpFNX1bny9sfvM,If You Think It's Love,King Princess,Cheap Queen,45,203946,sad,0.432,0.34,5,-7.977,1,0.0824,0.807,0,0.0864,0.449,135.172
+6mORGLOz79w6VsCRLWYYuK,The Night We Met,Lord Huron,Strange Trails,1,208211,sad,0.443,0.369,9,-9.514,1,0.0441,0.969,0.277,0.638,0.0989,174.107
+40FsuBI6VgWa0ouG9KcB0c,Friends That Break Your Heart,James Blake,Friends That Break Your Heart,53,201712,sad,0.547,0.189,4,-13.143,0,0.0374,0.913,0.00553,0.108,0.141,75.924
+0ecC8p17cDNlxHXkuYqeR6,Surrender,Natalie Taylor,Surrender,76,183103,sad,0.39,0.448,5,-8.57,0,0.0276,0.8,0.182,0.107,0.077,144.89
+3KKUf8F2hktFscLgbH4YwR,no song without you,HONNE,no song without you,60,161536,sad,0.778,0.462,0,-12.729,1,0.0359,0.463,0.583,0.11,0.817,105.45
+2gMXnyrvIjhVBUZwvLZDMP,Before You Go,Lewis Capaldi,Divinely Uninspired To A Hellish Extent (Extended Edition),84,215106,sad,0.459,0.575,3,-4.858,1,0.0573,0.604,0,0.0885,0.183,111.881
+218q4fCmVERKhXEZDr6g4P,Cry Over Boys,Alexander 23,Cry Over Boys,0,170812,sad,0.847,0.254,7,-13.551,1,0.0667,0.835,1.98e-05,0.527,0.381,117.987
+779UN3kabApm2zfqX549vf,when was it over? (feat. Sam Hunt),Sasha Alex Sloan,when was it over? (feat. Sam Hunt),70,218093,sad,0.626,0.453,7,-9.295,1,0.0306,0.816,1.91e-06,0.0904,0.494,129.958
+4K2Py3YrBcEktYlowG0GTc,thetimewewanderoff,Liush,thetimewewanderoff,26,137452,sad,0.473,0.147,1,-14.932,1,0.038,0.91,0.000935,0.0981,0.0767,61.272
+6MM22AtXB7I5gfTErMF0mJ,"Murder Song (5, 4, 3, 2, 1) - Acoustic",AURORA,All My Demons Greeting Me As A Friend (Deluxe),54,218666,sad,0.398,0.0887,9,-13.683,0,0.0334,0.902,1.76e-06,0.0873,0.356,74.797
+18uwL0vNUanqZH0ro2QcOP,comethru,Jeremy Zucker,"summer,",80,181613,sad,0.795,0.178,0,-11.991,1,0.0574,0.607,0,0.623,0.608,93.982
+0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),Billie Eilish,lovely (with Khalid),88,200185,sad,0.351,0.296,4,-10.109,0,0.0333,0.934,0,0.095,0.12,115.284
+2pDV76DDE1NgAOueeHns3R,Get to You,INTRN,Get to You,35,167619,sad,0.839,0.42,7,-11.375,1,0.0468,0.519,0,0.151,0.568,126.022
+2zPcVDSpYNVKQ5c7jR7MXj,summer depression,girl in red,summer depression,72,151693,sad,0.691,0.306,9,-15.651,1,0.0544,0.632,0.479,0.108,0.62,129.929
+0yfd3MSq6JEsNxOzSLJR7g,Only,RY X,Only,0,268455,sad,0.373,0.178,7,-15.52,0,0.0303,0.906,0.558,0.109,0.0933,108.605
+1I9a2zVcVWHtg9lpUjHrPX,hey there delilah,Caravn,love 2.0,39,255824,sad,0.357,0.323,11,-11.636,0,0.0421,0.644,4.59e-06,0.171,0.137,89.051
+7CS9hRKJNmBGWUowSjhedb,Light Year (feat. Lennon Stella),Adam Melchor,Light Year (feat. Lennon Stella),57,188043,sad,0.395,0.495,3,-9.087,1,0.0329,0.496,0.0378,0.12,0.517,168.01
+1CLmFKW99S8eJrebO3GB04,No Woman,Whitney,Light Upon the Lake,4,237973,sad,0.581,0.4,2,-8.739,1,0.0291,0.893,0.576,0.161,0.433,112.331
+60Upg4NK79iFTP77w9O6E7,If I Ain't Got You,Caravn,If I Ain't Got You,49,190169,sad,0.691,0.236,1,-9.348,1,0.0418,0.864,0,0.191,0.589,117.945
+4IMBnBRqm9RALmLrRqfMor,Love Is A Losing Game,Amy Winehouse,Back To Black,0,154160,sad,0.48,0.561,0,-5.874,1,0.027,0.317,0.00641,0.184,0.541,164.791
+5kcvBnt6DPX3AMEsCx1qDh,Happiest Year,Jaymes Young,Happiest Year,59,228442,sad,0.501,0.167,1,-14.061,1,0.0484,0.885,0,0.111,0.356,112.275
+0fmhvw57bEMrBccZkoQMmg,Dial Tone,little dipper,Dial Tone,0,183125,sad,0.691,0.762,6,-6.296,0,0.0268,0.107,1.36e-05,0.292,0.395,95.977
+2k9N4caeCIJLOWwWwssrEM,Easily,Bruno Major,A Song For Every Moon,77,210240,sad,0.772,0.256,7,-8.545,0,0.0481,0.491,0.00612,0.144,0.357,118.902
+15VDHAMS4JCLziCjNkmQl1,Older Than I Am,Lennon Stella,Three. Two. One.,60,181533,sad,0.44,0.306,9,-8.947,1,0.0363,0.891,0,0.103,0.201,117.288
+1q3AoLCoawd8Gpm9wP7sHi,Cold Nights,Camo Columbo,Cold Nights,39,189813,sad,0.941,0.421,11,-7.918,0,0.0583,0.321,9.34e-05,0.0967,0.787,107.011
+6OBl3esnGuz8PllwDWinWS,What's Good,Fenne Lily,What's Good,0,216875,sad,0.542,0.0957,8,-14.518,0,0.0404,0.935,6.4e-06,0.182,0.259,134.739
+0omwXDRLUssZ7fgl9vkL4m,Town I Called My Home,yaeow,Town I Called My Home,0,139200,sad,0.554,0.295,0,-13.619,1,0.098,0.816,0.541,0.103,0.206,200.144
+1XczdQt6RKNkEQfPqUsi3q,All I Want,Kodaline,The Kodaline EP,0,306600,sad,0.189,0.426,0,-9.084,1,0.045,0.114,0.0885,0.058,0.159,187.281
+0HRyeeLzVCvI2F06Uy6shQ,Lie Awake,Chandler Leighton,Lie Awake,51,187934,sad,0.539,0.134,0,-12.45,1,0.0446,0.885,0,0.102,0.245,68.747
+58qX77t2VWMWcycsh9zKLc,i don't want to watch the world end with someone else,Clinton Kane,i don't want to watch the world end with someone else,73,184505,sad,0.535,0.359,2,-9.343,1,0.0607,0.771,0,0.111,0.488,154.163
+0fBSs3fRoh1yJcne77fdu9,Video Games,Lana Del Rey,Born To Die - The Paradise Edition,73,281960,sad,0.236,0.249,6,-9.595,0,0.0348,0.811,1e-06,0.087,0.181,72.847
+5YlHgqWo3Kt2mF88ubmR62,Sad Corny Fuck,JP Saxe,Hold It Together,44,220520,sad,0.604,0.179,2,-15.383,1,0.0339,0.835,0,0.162,0.391,124.982
+3asmXN94x4NWhD1EB9PGK4,Is It Worth It Anymore?,High Tropics,Is It Worth It Anymore?,21,207367,sad,0.585,0.537,11,-5.409,1,0.0266,0.0521,0.000162,0.167,0.622,119.955
+1UmFRZU3taMGZApPhK32mc,Riverside,Agnes Obel,Philharmonics,0,228546,sad,0.648,0.177,9,-13.474,0,0.0311,0.985,0.000353,0.134,0.236,99.101
+0G41EUi3xiwUR6iOtXAQCz,Petrified,Omar Apollo,Ivory,63,197453,sad,0.343,0.331,2,-9.528,1,0.035,0.313,1.7e-05,0.512,0.343,203.852
+6x6XKEUcCJGUACD4Xh7KuP,Anchor,Novo Amor,Anchor,0,256282,sad,0.486,0.356,9,-13.649,1,0.0318,0.755,0.861,0.0986,0.111,117.141
+5pGV2AfDflnhL72pK1oIaR,Gone Away,Austin Harms,Gone Away,25,169721,sad,0.47,0.46,4,-11.598,1,0.0613,0.319,1.45e-05,0.115,0.322,116.821
+54KFQB6N4pn926IUUYZGzK,To Build A Home,The Cinematic Orchestra,Ma Fleur,76,371320,sad,0.264,0.122,9,-15.399,1,0.0349,0.885,0.349,0.094,0.0735,148.658
+5hXTMmVXz1Ablgu34BkTz1,Angel's Song,Arlo Parks,Angel's Song,48,197243,sad,0.693,0.195,11,-15.278,0,0.0446,0.894,0.0325,0.126,0.315,116.725
+02WacdrRpm4zlP8H7X6bnQ,Dancing On My Own,Calum Scott,Dancing On My Own,1,260004,sad,0.608,0.174,1,-8.796,1,0.0332,0.851,1.92e-05,0.0855,0.193,112.175
+1EwyAL8SdJpIX0M9b1ArAp,Somewhere Only We Know,Valentin,Somewhere Only We Know,0,193750,sad,0.472,0.305,8,-11.465,1,0.0295,0.84,0,0.142,0.584,165.9
+1wHSxWBfPr3GO31y8KGrWe,Wish You Were Here - 2011 Remastered Version,Pink Floyd,Wish You Were Here [2011 - Remaster] (2011 Remastered Version),0,334743,sad,0.481,0.262,7,-15.73,1,0.0414,0.735,0.0114,0.832,0.375,122.883
+6vG1pcmNGdG6Vu62I9nLGL,K.,Rosie Carney,K.,49,269000,sad,0.348,0.226,3,-10.918,1,0.0386,0.962,0.00483,0.135,0.173,129.251
+5a6pdCHlWS2ekOOQ70QnAr,July,Noah Cyrus,July,1,156106,sad,0.708,0.186,9,-8.953,0,0.0422,0.868,0,0.0779,0.321,72.541
+06qUEhhx6jKQmhj2qAkn4H,Trying My Best,Anson Seabra,Trying My Best,0,222467,sad,0.561,0.0587,5,-17.819,1,0.0762,0.95,0,0.0828,0.342,143.027
+7ggHQsGP7K3V65lqBwleWO,I'm with You,LEFT.,I'm with You,46,184363,sad,0.587,0.468,7,-10.316,0,0.0386,0.544,0.000154,0.1,0.176,82.426
+7sTtHHrD0zDpmzQzH3zegz,Consequences,Camila Cabello,Camila,69,178466,sad,0.455,0.292,0,-6.792,1,0.0563,0.889,0,0.106,0.43,84.339
+0ewX9JsKy9oa4IifkFSroa,Slow It Down,The Lumineers,The Lumineers,0,305346,sad,0.423,0.0657,1,-14.421,1,0.0386,0.928,1.4e-06,0.0922,0.105,98.489
+0pdKRp2sUthTPe7RLWpPqQ,You're Somebody Else,flora cash,You're Somebody Else,76,218883,sad,0.713,0.452,1,-9.638,1,0.0295,0.841,0.0038,0.105,0.235,102.963
+3U4isOIWM3VvDubwSI3y7a,All of Me,John Legend,Love In The Future (Expanded Edition),87,269560,sad,0.422,0.264,8,-7.064,1,0.0322,0.922,0,0.132,0.331,119.93
+5Iy1wdO0tMaHwKnfFYtlel,Cursive,Billie Marten,As Long As - EP,62,240400,sad,0.494,0.267,0,-11.54,1,0.0308,0.935,5.58e-05,0.128,0.166,115.117
+13PUJCvdTSCT1dn70tlGdm,"Welcome Home, Son",Radical Face,Ghost,0,285320,sad,0.601,0.537,6,-9.464,1,0.0296,0.743,0.732,0.143,0.394,144.994
+1jeH74UaH5xFnLo73haMQl,Hazy Memories,Caravn,Hazy Memories,33,177142,sad,0.455,0.317,9,-8.031,1,0.0448,0.9,0,0.0962,0.44,71.113
+1ZekzmhuM380sFcUZePjmL,Teardrop - Remastered 2006,Massive Attack,Bite Size Massive Attack,0,328026,sad,0.612,0.463,11,-7.653,0,0.035,0.0204,0.653,0.183,0.17,76.98
+2vBF8A6n0REigm7RSUM65S,The A Team,Ed Sheeran,The A Team,22,258588,angry,0.626,0.286,9,-9.933,1,0.0374,0.678,0,0.134,0.366,84.954
+7lPN2DXiMsVn7XUKtOW1CS,drivers license,Olivia Rodrigo,drivers license,33,242013,angry,0.585,0.436,10,-8.761,1,0.0601,0.721,1.31e-05,0.105,0.132,143.874
+7jtQIBanIiJOMS6RyCx6jZ,Another Love,Tom Odell,Long Way Down,57,244360,angry,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758
+4Of7rzpRpV1mWRbhp5rAqG,Bruises,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,81,220492,angry,0.736,0.308,4,-7.83,1,0.0677,0.946,0,0.186,0.361,111.202
+09u787BYeYIGd2mFIJ505t,Cry Your Heart Out,Adele,30,72,255278,angry,0.756,0.713,7,-6.917,1,0.102,0.523,3.35e-06,0.248,0.59,125.064
+1ZMiCix7XSAbfAJlEZWMCp,Falling,Harry Styles,Fine Line,87,240133,angry,0.567,0.267,4,-6.502,1,0.0299,0.839,1.46e-06,0.089,0.0592,110.011
+43zdsphuZLzwA9k4DJhU0I,when the party's over,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",83,196077,angry,0.367,0.111,4,-14.084,1,0.0972,0.978,3.97e-05,0.0897,0.198,82.642
+44V6EzbUSYgyfsNiP0FrlA,Visiting Hours,Ed Sheeran,Visiting Hours,75,215506,angry,0.471,0.396,8,-6.654,1,0.0336,0.77,0,0.0729,0.263,149.609
+0gplL1WMoJ6iYaPgMCL0gX,Easy On Me,Adele,Easy On Me,91,224694,angry,0.604,0.366,5,-7.519,1,0.0282,0.578,0,0.133,0.13,141.981
+4L2K7JKseFCBoHMZEAszW0,Jealous,Labrinth,Jealous,4,287693,angry,0.439,0.153,1,-8.95,1,0.0479,0.874,0,0.107,0.104,116.76
+45bE4HXI0AwGZXfZtMp8JR,you broke me first,Tate McRae,you broke me first,86,169265,angry,0.667,0.373,4,-9.389,1,0.05,0.785,0,0.0906,0.0823,124.148
+79Ey6OincHcHjtXR7Y5x21,"if you need to, keep time on me",Liush,"if you need to, keep time on me",34,212700,angry,0.22,0.0879,11,-19.441,1,0.0434,0.942,0.279,0.0761,0.143,164.578
+4xqrdfXkTW4T0RauPLv3WA,Heather,Conan Gray,Kid Krow,87,198040,angry,0.357,0.425,5,-7.301,1,0.0333,0.584,0,0.322,0.27,102.078
+7jqzZyJJLrpkRFYGpkqSK6,Breathe Me,Sia,Colour The Small One,65,272800,angry,0.552,0.643,0,-7.36,1,0.0327,0.0364,0.74,0.105,0.212,120.012
+1kAkUHFb7ryeVkVSRD6Nkj,Wish I Was Better,Kina,Wish I Was Better,67,140571,angry,0.732,0.304,0,-13.086,0,0.111,0.747,6.13e-05,0.143,0.185,139.965
+5RkhZf6mS0iWzsOZXQEUfL,Masterpiece,Liush,Masterpiece,32,192058,angry,0.516,0.219,5,-11.074,1,0.0855,0.813,9.59e-06,0.363,0.147,140.222
+1NyFRrFiJAJIaR6icj1goI,Skinny Love,Bon Iver,"For Emma, Forever Ago",1,238532,angry,0.592,0.256,4,-14.031,0,0.0449,0.842,2.38e-06,0.088,0.103,76.361
+1TQXIltqoZ5XXyfCbAeSQQ,Dancing With Your Ghost,Sasha Alex Sloan,Dancing With Your Ghost,81,197732,angry,0.629,0.328,11,-8.284,1,0.029,0.768,2.5e-05,0.103,0.389,74.953
+5JRHt05AAj0rgw8yWArDw5,Stayin' Alive,Caravn,Stayin' Alive,47,186131,angry,0.655,0.496,5,-7.677,0,0.129,0.0755,0,0.363,0.211,90.142
+1uVk6S6Fpkrmji0iTpgKEC,Long Way Down,Tom Odell,Long Way Down (Deluxe),59,149773,angry,0.368,0.121,6,-13.778,1,0.0315,0.972,0.0322,0.0871,0.0956,133.148
+6isTQfKXhNO3EyJd9mSxx8,AM I DREAMING (feat. Miley Cyrus),Lil Nas X,MONTERO,69,183241,angry,0.629,0.445,3,-6.999,1,0.0258,0.77,2.92e-06,0.351,0.209,94.103
+13HVjjWUZFaWilh2QUJKsP,Let It Go,James Bay,Chaos And The Calm,72,260533,angry,0.546,0.311,1,-10.396,1,0.0288,0.818,1.65e-05,0.107,0.246,147.464
+6CoC7nWbj6JiebN7IbJ0Z8,Same Old Mess,INTRN,Same Old Mess,42,120000,angry,0.64,0.177,2,-14.649,1,0.0298,0.906,0.00329,0.134,0.678,90.081
+1JDMO4EVPHtm0xXhJb2IjR,Youth,Daughter,The Wild Youth EP,0,251626,angry,0.588,0.477,9,-12.71,0,0.0492,0.61,0.00188,0.122,0.488,150.396
+5I6y1KWmUoV5YCaIEcs1qs,Should Have Known Better,Sufjan Stevens,Carrie & Lowell,8,307697,angry,0.571,0.172,7,-20.7,1,0.0318,0.979,0.275,0.124,0.297,90.972
+5cCj78DPk9iVZmrNWmYdPS,Say Something,Caravn,Say Something,14,221007,angry,0.536,0.165,1,-14.658,1,0.0338,0.608,0,0.11,0.15,138.758
+6QPKYGnAW9QozVz2dSWqRg,Someone Like You,Adele,21,5,285240,angry,0.554,0.321,9,-8.251,1,0.028,0.893,0,0.0996,0.288,135.047
+3H7oAhHxkEkSf9iomv2mbG,could cry just thinkin about you - Full Version,Troye Sivan,could cry just thinkin about you (Full Version),68,158000,angry,0.515,0.323,6,-11.05,1,0.0429,0.318,0,0.106,0.188,147.972
+1u71gNzUwTjgfYmArCUD0m,Friendly Fire,Holly Humberstone,The Walls Are Way Too Thin,55,222800,angry,0.465,0.602,10,-9.664,1,0.078,0.806,0.00145,0.101,0.595,159.905
+0W293G8NUJ55E29jH2NNUQ,Velvet Gun,LEFT.,Perspective,21,186000,angry,0.59,0.658,7,-7.19,1,0.0539,0.112,0.000218,0.115,0.444,154.926
+4NVwMupCTfITPXetR5aozp,pass you by,Alaina Castillo,the voicenotes,52,245945,angry,0.51,0.355,11,-6.883,1,0.0287,0.892,0,0.133,0.453,141.796
+3PJikMV2xGNCooQttQrAw5,Transatlanticism,Death Cab for Cutie,Transatlanticism,0,475093,angry,0.443,0.466,9,-9.209,1,0.0302,0.393,0.647,0.165,0.19,127.493
+0PKAijroHpnEtdY20bkGdr,ghost town (voice memo),Chloe George,ghost town (voice memo),70,137250,angry,0.471,0.229,8,-6.504,1,0.0358,0.953,0,0.0909,0.358,68.41
+4XCnRvggQILzbtbV0VzgFU,I Will Survive,High Tropics,love 2.0,28,227554,angry,0.491,0.815,11,-6.502,0,0.0577,0.215,1.23e-05,0.224,0.49,93.978
+6XRNCAnxJIB1p4RPdFVSq0,People Help the People,Birdy,Birdy (Deluxe Version),57,256236,angry,0.407,0.308,10,-9.001,0,0.0296,0.778,1.46e-05,0.092,0.153,73.254
+6P57z7wZlYxmNxXCihQSwn,Foreign tree,Liush,Foreign tree,28,205181,angry,0.274,0.182,9,-16.843,1,0.033,0.818,0.0688,0.153,0.0973,156.763
+1nYzjrdVQ8RpF93M0jPFW7,Remember That Night?,Sara Kays,Remember That Night?,79,227186,angry,0.679,0.61,7,-10.936,0,0.0305,0.585,9.51e-05,0.156,0.554,123.978
+3L769KtCDRPoektqIEqQ5j,Lost in a City,Paul the Neighbour,Lost in a City,32,223500,angry,0.335,0.512,1,-11.304,1,0.0404,0.0455,2.72e-05,0.127,0.209,124.873
+13CVSGLSFl4UxpDVR6u3dq,Strangers By Nature,Adele,30,72,182163,angry,0.387,0.253,5,-8.901,1,0.0336,0.798,0.000159,0.0848,0.134,68.004
+7aroxbyBcFzfmsjdRBV6cT,Julia,little dipper,Julia,34,207630,angry,0.621,0.627,7,-8.114,1,0.0383,0.587,0,0.099,0.37,131.086
+2yoaXLItTfWNpdFFpdF3Ti,June,Florence + The Machine,High As Hope,54,221973,angry,0.363,0.362,5,-8.516,1,0.0339,0.28,2.03e-06,0.142,0.179,146.104
+6DzvC1VHpyTFfLBbAYBa7W,Bird,Billie Marten,Writing of Blues and Yellows (Deluxe Version),51,220640,angry,0.235,0.187,6,-12.754,1,0.0347,0.988,0.00197,0.106,0.118,85.962
+6fXTnGpl48gI5FQZOxhcOV,Like You Never Did,Johnning,Like You Never Did,47,182126,angry,0.406,0.477,7,-8.291,1,0.0321,0.64,0,0.154,0.21,147.172
+1OdYu7mDO94ydUvfZPaPvP,I Can't Help (with Sarcastic Sounds),Shoffy,I Can't Help (with Sarcastic Sounds),1,121250,angry,0.714,0.4,2,-8.264,1,0.0618,0.393,0.000718,0.109,0.318,81.974
+7LVHVU3tWfcxj5aiPFEW4Q,Fix You,Coldplay,X&Y,84,295533,angry,0.209,0.417,3,-8.74,1,0.0338,0.164,0.00196,0.113,0.124,138.178
+06p20tdVnOEUtVTKtmUXGW,Rest,LEFT.,Rest,45,231617,angry,0.354,0.456,7,-11.524,1,0.147,0.316,1.39e-05,0.115,0.246,155.712
+3iiL6merNpFNX1bny9sfvM,If You Think It's Love,King Princess,Cheap Queen,45,203946,angry,0.432,0.34,5,-7.977,1,0.0824,0.807,0,0.0864,0.449,135.172
+6mORGLOz79w6VsCRLWYYuK,The Night We Met,Lord Huron,Strange Trails,1,208211,angry,0.443,0.369,9,-9.514,1,0.0441,0.969,0.277,0.638,0.0989,174.107
+40FsuBI6VgWa0ouG9KcB0c,Friends That Break Your Heart,James Blake,Friends That Break Your Heart,53,201712,angry,0.547,0.189,4,-13.143,0,0.0374,0.913,0.00553,0.108,0.141,75.924
+0ecC8p17cDNlxHXkuYqeR6,Surrender,Natalie Taylor,Surrender,76,183103,angry,0.39,0.448,5,-8.57,0,0.0276,0.8,0.182,0.107,0.077,144.89
+3KKUf8F2hktFscLgbH4YwR,no song without you,HONNE,no song without you,60,161536,angry,0.778,0.462,0,-12.729,1,0.0359,0.463,0.583,0.11,0.817,105.45
+2gMXnyrvIjhVBUZwvLZDMP,Before You Go,Lewis Capaldi,Divinely Uninspired To A Hellish Extent (Extended Edition),84,215106,angry,0.459,0.575,3,-4.858,1,0.0573,0.604,0,0.0885,0.183,111.881
+218q4fCmVERKhXEZDr6g4P,Cry Over Boys,Alexander 23,Cry Over Boys,0,170812,angry,0.847,0.254,7,-13.551,1,0.0667,0.835,1.98e-05,0.527,0.381,117.987
+779UN3kabApm2zfqX549vf,when was it over? (feat. Sam Hunt),Sasha Alex Sloan,when was it over? (feat. Sam Hunt),70,218093,angry,0.626,0.453,7,-9.295,1,0.0306,0.816,1.91e-06,0.0904,0.494,129.958
+4K2Py3YrBcEktYlowG0GTc,thetimewewanderoff,Liush,thetimewewanderoff,26,137452,angry,0.473,0.147,1,-14.932,1,0.038,0.91,0.000935,0.0981,0.0767,61.272
+6MM22AtXB7I5gfTErMF0mJ,"Murder Song (5, 4, 3, 2, 1) - Acoustic",AURORA,All My Demons Greeting Me As A Friend (Deluxe),54,218666,angry,0.398,0.0887,9,-13.683,0,0.0334,0.902,1.76e-06,0.0873,0.356,74.797
+18uwL0vNUanqZH0ro2QcOP,comethru,Jeremy Zucker,"summer,",80,181613,angry,0.795,0.178,0,-11.991,1,0.0574,0.607,0,0.623,0.608,93.982
+0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),Billie Eilish,lovely (with Khalid),88,200185,angry,0.351,0.296,4,-10.109,0,0.0333,0.934,0,0.095,0.12,115.284
+2pDV76DDE1NgAOueeHns3R,Get to You,INTRN,Get to You,35,167619,angry,0.839,0.42,7,-11.375,1,0.0468,0.519,0,0.151,0.568,126.022
+2zPcVDSpYNVKQ5c7jR7MXj,summer depression,girl in red,summer depression,72,151693,angry,0.691,0.306,9,-15.651,1,0.0544,0.632,0.479,0.108,0.62,129.929
+0yfd3MSq6JEsNxOzSLJR7g,Only,RY X,Only,0,268455,angry,0.373,0.178,7,-15.52,0,0.0303,0.906,0.558,0.109,0.0933,108.605
+1I9a2zVcVWHtg9lpUjHrPX,hey there delilah,Caravn,love 2.0,39,255824,angry,0.357,0.323,11,-11.636,0,0.0421,0.644,4.59e-06,0.171,0.137,89.051
+7CS9hRKJNmBGWUowSjhedb,Light Year (feat. Lennon Stella),Adam Melchor,Light Year (feat. Lennon Stella),57,188043,angry,0.395,0.495,3,-9.087,1,0.0329,0.496,0.0378,0.12,0.517,168.01
+1CLmFKW99S8eJrebO3GB04,No Woman,Whitney,Light Upon the Lake,4,237973,angry,0.581,0.4,2,-8.739,1,0.0291,0.893,0.576,0.161,0.433,112.331
+60Upg4NK79iFTP77w9O6E7,If I Ain't Got You,Caravn,If I Ain't Got You,49,190169,angry,0.691,0.236,1,-9.348,1,0.0418,0.864,0,0.191,0.589,117.945
+4IMBnBRqm9RALmLrRqfMor,Love Is A Losing Game,Amy Winehouse,Back To Black,0,154160,angry,0.48,0.561,0,-5.874,1,0.027,0.317,0.00641,0.184,0.541,164.791
+5kcvBnt6DPX3AMEsCx1qDh,Happiest Year,Jaymes Young,Happiest Year,59,228442,angry,0.501,0.167,1,-14.061,1,0.0484,0.885,0,0.111,0.356,112.275
+0fmhvw57bEMrBccZkoQMmg,Dial Tone,little dipper,Dial Tone,0,183125,angry,0.691,0.762,6,-6.296,0,0.0268,0.107,1.36e-05,0.292,0.395,95.977
+2k9N4caeCIJLOWwWwssrEM,Easily,Bruno Major,A Song For Every Moon,77,210240,angry,0.772,0.256,7,-8.545,0,0.0481,0.491,0.00612,0.144,0.357,118.902
+15VDHAMS4JCLziCjNkmQl1,Older Than I Am,Lennon Stella,Three. Two. One.,60,181533,angry,0.44,0.306,9,-8.947,1,0.0363,0.891,0,0.103,0.201,117.288
+1q3AoLCoawd8Gpm9wP7sHi,Cold Nights,Camo Columbo,Cold Nights,39,189813,angry,0.941,0.421,11,-7.918,0,0.0583,0.321,9.34e-05,0.0967,0.787,107.011
+6OBl3esnGuz8PllwDWinWS,What's Good,Fenne Lily,What's Good,0,216875,angry,0.542,0.0957,8,-14.518,0,0.0404,0.935,6.4e-06,0.182,0.259,134.739
+0omwXDRLUssZ7fgl9vkL4m,Town I Called My Home,yaeow,Town I Called My Home,0,139200,angry,0.554,0.295,0,-13.619,1,0.098,0.816,0.541,0.103,0.206,200.144
+1XczdQt6RKNkEQfPqUsi3q,All I Want,Kodaline,The Kodaline EP,0,306600,angry,0.189,0.426,0,-9.084,1,0.045,0.114,0.0885,0.058,0.159,187.281
+0HRyeeLzVCvI2F06Uy6shQ,Lie Awake,Chandler Leighton,Lie Awake,51,187934,angry,0.539,0.134,0,-12.45,1,0.0446,0.885,0,0.102,0.245,68.747
+58qX77t2VWMWcycsh9zKLc,i don't want to watch the world end with someone else,Clinton Kane,i don't want to watch the world end with someone else,73,184505,angry,0.535,0.359,2,-9.343,1,0.0607,0.771,0,0.111,0.488,154.163
+0fBSs3fRoh1yJcne77fdu9,Video Games,Lana Del Rey,Born To Die - The Paradise Edition,73,281960,angry,0.236,0.249,6,-9.595,0,0.0348,0.811,1e-06,0.087,0.181,72.847
+5YlHgqWo3Kt2mF88ubmR62,Sad Corny Fuck,JP Saxe,Hold It Together,44,220520,angry,0.604,0.179,2,-15.383,1,0.0339,0.835,0,0.162,0.391,124.982
+3asmXN94x4NWhD1EB9PGK4,Is It Worth It Anymore?,High Tropics,Is It Worth It Anymore?,21,207367,angry,0.585,0.537,11,-5.409,1,0.0266,0.0521,0.000162,0.167,0.622,119.955
+1UmFRZU3taMGZApPhK32mc,Riverside,Agnes Obel,Philharmonics,0,228546,angry,0.648,0.177,9,-13.474,0,0.0311,0.985,0.000353,0.134,0.236,99.101
+0G41EUi3xiwUR6iOtXAQCz,Petrified,Omar Apollo,Ivory,63,197453,angry,0.343,0.331,2,-9.528,1,0.035,0.313,1.7e-05,0.512,0.343,203.852
+6x6XKEUcCJGUACD4Xh7KuP,Anchor,Novo Amor,Anchor,0,256282,angry,0.486,0.356,9,-13.649,1,0.0318,0.755,0.861,0.0986,0.111,117.141
+5pGV2AfDflnhL72pK1oIaR,Gone Away,Austin Harms,Gone Away,25,169721,angry,0.47,0.46,4,-11.598,1,0.0613,0.319,1.45e-05,0.115,0.322,116.821
+54KFQB6N4pn926IUUYZGzK,To Build A Home,The Cinematic Orchestra,Ma Fleur,76,371320,angry,0.264,0.122,9,-15.399,1,0.0349,0.885,0.349,0.094,0.0735,148.658
+5hXTMmVXz1Ablgu34BkTz1,Angel's Song,Arlo Parks,Angel's Song,48,197243,angry,0.693,0.195,11,-15.278,0,0.0446,0.894,0.0325,0.126,0.315,116.725
+02WacdrRpm4zlP8H7X6bnQ,Dancing On My Own,Calum Scott,Dancing On My Own,1,260004,angry,0.608,0.174,1,-8.796,1,0.0332,0.851,1.92e-05,0.0855,0.193,112.175
+1EwyAL8SdJpIX0M9b1ArAp,Somewhere Only We Know,Valentin,Somewhere Only We Know,0,193750,angry,0.472,0.305,8,-11.465,1,0.0295,0.84,0,0.142,0.584,165.9
+1wHSxWBfPr3GO31y8KGrWe,Wish You Were Here - 2011 Remastered Version,Pink Floyd,Wish You Were Here [2011 - Remaster] (2011 Remastered Version),0,334743,angry,0.481,0.262,7,-15.73,1,0.0414,0.735,0.0114,0.832,0.375,122.883
+6vG1pcmNGdG6Vu62I9nLGL,K.,Rosie Carney,K.,49,269000,angry,0.348,0.226,3,-10.918,1,0.0386,0.962,0.00483,0.135,0.173,129.251
+5a6pdCHlWS2ekOOQ70QnAr,July,Noah Cyrus,July,1,156106,angry,0.708,0.186,9,-8.953,0,0.0422,0.868,0,0.0779,0.321,72.541
+06qUEhhx6jKQmhj2qAkn4H,Trying My Best,Anson Seabra,Trying My Best,0,222467,angry,0.561,0.0587,5,-17.819,1,0.0762,0.95,0,0.0828,0.342,143.027
+7ggHQsGP7K3V65lqBwleWO,I'm with You,LEFT.,I'm with You,46,184363,angry,0.587,0.468,7,-10.316,0,0.0386,0.544,0.000154,0.1,0.176,82.426
+7sTtHHrD0zDpmzQzH3zegz,Consequences,Camila Cabello,Camila,69,178466,angry,0.455,0.292,0,-6.792,1,0.0563,0.889,0,0.106,0.43,84.339
+0ewX9JsKy9oa4IifkFSroa,Slow It Down,The Lumineers,The Lumineers,0,305346,angry,0.423,0.0657,1,-14.421,1,0.0386,0.928,1.4e-06,0.0922,0.105,98.489
+0pdKRp2sUthTPe7RLWpPqQ,You're Somebody Else,flora cash,You're Somebody Else,76,218883,angry,0.713,0.452,1,-9.638,1,0.0295,0.841,0.0038,0.105,0.235,102.963
+3U4isOIWM3VvDubwSI3y7a,All of Me,John Legend,Love In The Future (Expanded Edition),87,269560,angry,0.422,0.264,8,-7.064,1,0.0322,0.922,0,0.132,0.331,119.93
+5Iy1wdO0tMaHwKnfFYtlel,Cursive,Billie Marten,As Long As - EP,62,240400,angry,0.494,0.267,0,-11.54,1,0.0308,0.935,5.58e-05,0.128,0.166,115.117
+13PUJCvdTSCT1dn70tlGdm,"Welcome Home, Son",Radical Face,Ghost,0,285320,angry,0.601,0.537,6,-9.464,1,0.0296,0.743,0.732,0.143,0.394,144.994
+1jeH74UaH5xFnLo73haMQl,Hazy Memories,Caravn,Hazy Memories,33,177142,angry,0.455,0.317,9,-8.031,1,0.0448,0.9,0,0.0962,0.44,71.113
+1ZekzmhuM380sFcUZePjmL,Teardrop - Remastered 2006,Massive Attack,Bite Size Massive Attack,0,328026,angry,0.612,0.463,11,-7.653,0,0.035,0.0204,0.653,0.183,0.17,76.98
+2vBF8A6n0REigm7RSUM65S,The A Team,Ed Sheeran,The A Team,22,258588,happy,0.626,0.286,9,-9.933,1,0.0374,0.678,0,0.134,0.366,84.954
+7lPN2DXiMsVn7XUKtOW1CS,drivers license,Olivia Rodrigo,drivers license,33,242013,happy,0.585,0.436,10,-8.761,1,0.0601,0.721,1.31e-05,0.105,0.132,143.874
+7jtQIBanIiJOMS6RyCx6jZ,Another Love,Tom Odell,Long Way Down,57,244360,happy,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,0.139,122.758
+4Of7rzpRpV1mWRbhp5rAqG,Bruises,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,81,220492,happy,0.736,0.308,4,-7.83,1,0.0677,0.946,0,0.186,0.361,111.202
+09u787BYeYIGd2mFIJ505t,Cry Your Heart Out,Adele,30,72,255278,happy,0.756,0.713,7,-6.917,1,0.102,0.523,3.35e-06,0.248,0.59,125.064
+1ZMiCix7XSAbfAJlEZWMCp,Falling,Harry Styles,Fine Line,87,240133,happy,0.567,0.267,4,-6.502,1,0.0299,0.839,1.46e-06,0.089,0.0592,110.011
+43zdsphuZLzwA9k4DJhU0I,when the party's over,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",83,196077,happy,0.367,0.111,4,-14.084,1,0.0972,0.978,3.97e-05,0.0897,0.198,82.642
+44V6EzbUSYgyfsNiP0FrlA,Visiting Hours,Ed Sheeran,Visiting Hours,75,215506,happy,0.471,0.396,8,-6.654,1,0.0336,0.77,0,0.0729,0.263,149.609
+0gplL1WMoJ6iYaPgMCL0gX,Easy On Me,Adele,Easy On Me,91,224694,happy,0.604,0.366,5,-7.519,1,0.0282,0.578,0,0.133,0.13,141.981
+4L2K7JKseFCBoHMZEAszW0,Jealous,Labrinth,Jealous,4,287693,happy,0.439,0.153,1,-8.95,1,0.0479,0.874,0,0.107,0.104,116.76
+45bE4HXI0AwGZXfZtMp8JR,you broke me first,Tate McRae,you broke me first,86,169265,happy,0.667,0.373,4,-9.389,1,0.05,0.785,0,0.0906,0.0823,124.148
+79Ey6OincHcHjtXR7Y5x21,"if you need to, keep time on me",Liush,"if you need to, keep time on me",34,212700,happy,0.22,0.0879,11,-19.441,1,0.0434,0.942,0.279,0.0761,0.143,164.578
+4xqrdfXkTW4T0RauPLv3WA,Heather,Conan Gray,Kid Krow,87,198040,happy,0.357,0.425,5,-7.301,1,0.0333,0.584,0,0.322,0.27,102.078
+7jqzZyJJLrpkRFYGpkqSK6,Breathe Me,Sia,Colour The Small One,65,272800,happy,0.552,0.643,0,-7.36,1,0.0327,0.0364,0.74,0.105,0.212,120.012
+1kAkUHFb7ryeVkVSRD6Nkj,Wish I Was Better,Kina,Wish I Was Better,67,140571,happy,0.732,0.304,0,-13.086,0,0.111,0.747,6.13e-05,0.143,0.185,139.965
+5RkhZf6mS0iWzsOZXQEUfL,Masterpiece,Liush,Masterpiece,32,192058,happy,0.516,0.219,5,-11.074,1,0.0855,0.813,9.59e-06,0.363,0.147,140.222
+1NyFRrFiJAJIaR6icj1goI,Skinny Love,Bon Iver,"For Emma, Forever Ago",1,238532,happy,0.592,0.256,4,-14.031,0,0.0449,0.842,2.38e-06,0.088,0.103,76.361
+1TQXIltqoZ5XXyfCbAeSQQ,Dancing With Your Ghost,Sasha Alex Sloan,Dancing With Your Ghost,81,197732,happy,0.629,0.328,11,-8.284,1,0.029,0.768,2.5e-05,0.103,0.389,74.953
+5JRHt05AAj0rgw8yWArDw5,Stayin' Alive,Caravn,Stayin' Alive,47,186131,happy,0.655,0.496,5,-7.677,0,0.129,0.0755,0,0.363,0.211,90.142
+1uVk6S6Fpkrmji0iTpgKEC,Long Way Down,Tom Odell,Long Way Down (Deluxe),59,149773,happy,0.368,0.121,6,-13.778,1,0.0315,0.972,0.0322,0.0871,0.0956,133.148
+6isTQfKXhNO3EyJd9mSxx8,AM I DREAMING (feat. Miley Cyrus),Lil Nas X,MONTERO,69,183241,happy,0.629,0.445,3,-6.999,1,0.0258,0.77,2.92e-06,0.351,0.209,94.103
+13HVjjWUZFaWilh2QUJKsP,Let It Go,James Bay,Chaos And The Calm,72,260533,happy,0.546,0.311,1,-10.396,1,0.0288,0.818,1.65e-05,0.107,0.246,147.464
+6CoC7nWbj6JiebN7IbJ0Z8,Same Old Mess,INTRN,Same Old Mess,42,120000,happy,0.64,0.177,2,-14.649,1,0.0298,0.906,0.00329,0.134,0.678,90.081
+1JDMO4EVPHtm0xXhJb2IjR,Youth,Daughter,The Wild Youth EP,0,251626,happy,0.588,0.477,9,-12.71,0,0.0492,0.61,0.00188,0.122,0.488,150.396
+5I6y1KWmUoV5YCaIEcs1qs,Should Have Known Better,Sufjan Stevens,Carrie & Lowell,8,307697,happy,0.571,0.172,7,-20.7,1,0.0318,0.979,0.275,0.124,0.297,90.972
+5cCj78DPk9iVZmrNWmYdPS,Say Something,Caravn,Say Something,14,221007,happy,0.536,0.165,1,-14.658,1,0.0338,0.608,0,0.11,0.15,138.758
+6QPKYGnAW9QozVz2dSWqRg,Someone Like You,Adele,21,5,285240,happy,0.554,0.321,9,-8.251,1,0.028,0.893,0,0.0996,0.288,135.047
+3H7oAhHxkEkSf9iomv2mbG,could cry just thinkin about you - Full Version,Troye Sivan,could cry just thinkin about you (Full Version),68,158000,happy,0.515,0.323,6,-11.05,1,0.0429,0.318,0,0.106,0.188,147.972
+1u71gNzUwTjgfYmArCUD0m,Friendly Fire,Holly Humberstone,The Walls Are Way Too Thin,55,222800,happy,0.465,0.602,10,-9.664,1,0.078,0.806,0.00145,0.101,0.595,159.905
+0W293G8NUJ55E29jH2NNUQ,Velvet Gun,LEFT.,Perspective,21,186000,happy,0.59,0.658,7,-7.19,1,0.0539,0.112,0.000218,0.115,0.444,154.926
+4NVwMupCTfITPXetR5aozp,pass you by,Alaina Castillo,the voicenotes,52,245945,happy,0.51,0.355,11,-6.883,1,0.0287,0.892,0,0.133,0.453,141.796
+3PJikMV2xGNCooQttQrAw5,Transatlanticism,Death Cab for Cutie,Transatlanticism,0,475093,happy,0.443,0.466,9,-9.209,1,0.0302,0.393,0.647,0.165,0.19,127.493
+0PKAijroHpnEtdY20bkGdr,ghost town (voice memo),Chloe George,ghost town (voice memo),70,137250,happy,0.471,0.229,8,-6.504,1,0.0358,0.953,0,0.0909,0.358,68.41
+4XCnRvggQILzbtbV0VzgFU,I Will Survive,High Tropics,love 2.0,28,227554,happy,0.491,0.815,11,-6.502,0,0.0577,0.215,1.23e-05,0.224,0.49,93.978
+6XRNCAnxJIB1p4RPdFVSq0,People Help the People,Birdy,Birdy (Deluxe Version),57,256236,happy,0.407,0.308,10,-9.001,0,0.0296,0.778,1.46e-05,0.092,0.153,73.254
+6P57z7wZlYxmNxXCihQSwn,Foreign tree,Liush,Foreign tree,28,205181,happy,0.274,0.182,9,-16.843,1,0.033,0.818,0.0688,0.153,0.0973,156.763
+1nYzjrdVQ8RpF93M0jPFW7,Remember That Night?,Sara Kays,Remember That Night?,79,227186,happy,0.679,0.61,7,-10.936,0,0.0305,0.585,9.51e-05,0.156,0.554,123.978
+3L769KtCDRPoektqIEqQ5j,Lost in a City,Paul the Neighbour,Lost in a City,32,223500,happy,0.335,0.512,1,-11.304,1,0.0404,0.0455,2.72e-05,0.127,0.209,124.873
+13CVSGLSFl4UxpDVR6u3dq,Strangers By Nature,Adele,30,72,182163,happy,0.387,0.253,5,-8.901,1,0.0336,0.798,0.000159,0.0848,0.134,68.004
+7aroxbyBcFzfmsjdRBV6cT,Julia,little dipper,Julia,34,207630,happy,0.621,0.627,7,-8.114,1,0.0383,0.587,0,0.099,0.37,131.086
+2yoaXLItTfWNpdFFpdF3Ti,June,Florence + The Machine,High As Hope,54,221973,happy,0.363,0.362,5,-8.516,1,0.0339,0.28,2.03e-06,0.142,0.179,146.104
+6DzvC1VHpyTFfLBbAYBa7W,Bird,Billie Marten,Writing of Blues and Yellows (Deluxe Version),51,220640,happy,0.235,0.187,6,-12.754,1,0.0347,0.988,0.00197,0.106,0.118,85.962
+6fXTnGpl48gI5FQZOxhcOV,Like You Never Did,Johnning,Like You Never Did,47,182126,happy,0.406,0.477,7,-8.291,1,0.0321,0.64,0,0.154,0.21,147.172
+1OdYu7mDO94ydUvfZPaPvP,I Can't Help (with Sarcastic Sounds),Shoffy,I Can't Help (with Sarcastic Sounds),1,121250,happy,0.714,0.4,2,-8.264,1,0.0618,0.393,0.000718,0.109,0.318,81.974
+7LVHVU3tWfcxj5aiPFEW4Q,Fix You,Coldplay,X&Y,84,295533,happy,0.209,0.417,3,-8.74,1,0.0338,0.164,0.00196,0.113,0.124,138.178
+06p20tdVnOEUtVTKtmUXGW,Rest,LEFT.,Rest,45,231617,happy,0.354,0.456,7,-11.524,1,0.147,0.316,1.39e-05,0.115,0.246,155.712
+3iiL6merNpFNX1bny9sfvM,If You Think It's Love,King Princess,Cheap Queen,45,203946,happy,0.432,0.34,5,-7.977,1,0.0824,0.807,0,0.0864,0.449,135.172
+6mORGLOz79w6VsCRLWYYuK,The Night We Met,Lord Huron,Strange Trails,1,208211,happy,0.443,0.369,9,-9.514,1,0.0441,0.969,0.277,0.638,0.0989,174.107
+40FsuBI6VgWa0ouG9KcB0c,Friends That Break Your Heart,James Blake,Friends That Break Your Heart,53,201712,happy,0.547,0.189,4,-13.143,0,0.0374,0.913,0.00553,0.108,0.141,75.924
+0ecC8p17cDNlxHXkuYqeR6,Surrender,Natalie Taylor,Surrender,76,183103,happy,0.39,0.448,5,-8.57,0,0.0276,0.8,0.182,0.107,0.077,144.89
+3KKUf8F2hktFscLgbH4YwR,no song without you,HONNE,no song without you,60,161536,happy,0.778,0.462,0,-12.729,1,0.0359,0.463,0.583,0.11,0.817,105.45
+2gMXnyrvIjhVBUZwvLZDMP,Before You Go,Lewis Capaldi,Divinely Uninspired To A Hellish Extent (Extended Edition),84,215106,happy,0.459,0.575,3,-4.858,1,0.0573,0.604,0,0.0885,0.183,111.881
+218q4fCmVERKhXEZDr6g4P,Cry Over Boys,Alexander 23,Cry Over Boys,0,170812,happy,0.847,0.254,7,-13.551,1,0.0667,0.835,1.98e-05,0.527,0.381,117.987
+779UN3kabApm2zfqX549vf,when was it over? (feat. Sam Hunt),Sasha Alex Sloan,when was it over? (feat. Sam Hunt),70,218093,happy,0.626,0.453,7,-9.295,1,0.0306,0.816,1.91e-06,0.0904,0.494,129.958
+4K2Py3YrBcEktYlowG0GTc,thetimewewanderoff,Liush,thetimewewanderoff,26,137452,happy,0.473,0.147,1,-14.932,1,0.038,0.91,0.000935,0.0981,0.0767,61.272
+6MM22AtXB7I5gfTErMF0mJ,"Murder Song (5, 4, 3, 2, 1) - Acoustic",AURORA,All My Demons Greeting Me As A Friend (Deluxe),54,218666,happy,0.398,0.0887,9,-13.683,0,0.0334,0.902,1.76e-06,0.0873,0.356,74.797
+18uwL0vNUanqZH0ro2QcOP,comethru,Jeremy Zucker,"summer,",80,181613,happy,0.795,0.178,0,-11.991,1,0.0574,0.607,0,0.623,0.608,93.982
+0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),Billie Eilish,lovely (with Khalid),88,200185,happy,0.351,0.296,4,-10.109,0,0.0333,0.934,0,0.095,0.12,115.284
+2pDV76DDE1NgAOueeHns3R,Get to You,INTRN,Get to You,35,167619,happy,0.839,0.42,7,-11.375,1,0.0468,0.519,0,0.151,0.568,126.022
+2zPcVDSpYNVKQ5c7jR7MXj,summer depression,girl in red,summer depression,72,151693,happy,0.691,0.306,9,-15.651,1,0.0544,0.632,0.479,0.108,0.62,129.929
+0yfd3MSq6JEsNxOzSLJR7g,Only,RY X,Only,0,268455,happy,0.373,0.178,7,-15.52,0,0.0303,0.906,0.558,0.109,0.0933,108.605
+1I9a2zVcVWHtg9lpUjHrPX,hey there delilah,Caravn,love 2.0,39,255824,happy,0.357,0.323,11,-11.636,0,0.0421,0.644,4.59e-06,0.171,0.137,89.051
+7CS9hRKJNmBGWUowSjhedb,Light Year (feat. Lennon Stella),Adam Melchor,Light Year (feat. Lennon Stella),57,188043,happy,0.395,0.495,3,-9.087,1,0.0329,0.496,0.0378,0.12,0.517,168.01
+1CLmFKW99S8eJrebO3GB04,No Woman,Whitney,Light Upon the Lake,4,237973,happy,0.581,0.4,2,-8.739,1,0.0291,0.893,0.576,0.161,0.433,112.331
+60Upg4NK79iFTP77w9O6E7,If I Ain't Got You,Caravn,If I Ain't Got You,49,190169,happy,0.691,0.236,1,-9.348,1,0.0418,0.864,0,0.191,0.589,117.945
+4IMBnBRqm9RALmLrRqfMor,Love Is A Losing Game,Amy Winehouse,Back To Black,0,154160,happy,0.48,0.561,0,-5.874,1,0.027,0.317,0.00641,0.184,0.541,164.791
+5kcvBnt6DPX3AMEsCx1qDh,Happiest Year,Jaymes Young,Happiest Year,59,228442,happy,0.501,0.167,1,-14.061,1,0.0484,0.885,0,0.111,0.356,112.275
+0fmhvw57bEMrBccZkoQMmg,Dial Tone,little dipper,Dial Tone,0,183125,happy,0.691,0.762,6,-6.296,0,0.0268,0.107,1.36e-05,0.292,0.395,95.977
+2k9N4caeCIJLOWwWwssrEM,Easily,Bruno Major,A Song For Every Moon,77,210240,happy,0.772,0.256,7,-8.545,0,0.0481,0.491,0.00612,0.144,0.357,118.902
+15VDHAMS4JCLziCjNkmQl1,Older Than I Am,Lennon Stella,Three. Two. One.,60,181533,happy,0.44,0.306,9,-8.947,1,0.0363,0.891,0,0.103,0.201,117.288
+1q3AoLCoawd8Gpm9wP7sHi,Cold Nights,Camo Columbo,Cold Nights,39,189813,happy,0.941,0.421,11,-7.918,0,0.0583,0.321,9.34e-05,0.0967,0.787,107.011
+6OBl3esnGuz8PllwDWinWS,What's Good,Fenne Lily,What's Good,0,216875,happy,0.542,0.0957,8,-14.518,0,0.0404,0.935,6.4e-06,0.182,0.259,134.739
+0omwXDRLUssZ7fgl9vkL4m,Town I Called My Home,yaeow,Town I Called My Home,0,139200,happy,0.554,0.295,0,-13.619,1,0.098,0.816,0.541,0.103,0.206,200.144
+1XczdQt6RKNkEQfPqUsi3q,All I Want,Kodaline,The Kodaline EP,0,306600,happy,0.189,0.426,0,-9.084,1,0.045,0.114,0.0885,0.058,0.159,187.281
+0HRyeeLzVCvI2F06Uy6shQ,Lie Awake,Chandler Leighton,Lie Awake,51,187934,happy,0.539,0.134,0,-12.45,1,0.0446,0.885,0,0.102,0.245,68.747
+58qX77t2VWMWcycsh9zKLc,i don't want to watch the world end with someone else,Clinton Kane,i don't want to watch the world end with someone else,73,184505,happy,0.535,0.359,2,-9.343,1,0.0607,0.771,0,0.111,0.488,154.163
+0fBSs3fRoh1yJcne77fdu9,Video Games,Lana Del Rey,Born To Die - The Paradise Edition,73,281960,happy,0.236,0.249,6,-9.595,0,0.0348,0.811,1e-06,0.087,0.181,72.847
+5YlHgqWo3Kt2mF88ubmR62,Sad Corny Fuck,JP Saxe,Hold It Together,44,220520,happy,0.604,0.179,2,-15.383,1,0.0339,0.835,0,0.162,0.391,124.982
+3asmXN94x4NWhD1EB9PGK4,Is It Worth It Anymore?,High Tropics,Is It Worth It Anymore?,21,207367,happy,0.585,0.537,11,-5.409,1,0.0266,0.0521,0.000162,0.167,0.622,119.955
+1UmFRZU3taMGZApPhK32mc,Riverside,Agnes Obel,Philharmonics,0,228546,happy,0.648,0.177,9,-13.474,0,0.0311,0.985,0.000353,0.134,0.236,99.101
+0G41EUi3xiwUR6iOtXAQCz,Petrified,Omar Apollo,Ivory,63,197453,happy,0.343,0.331,2,-9.528,1,0.035,0.313,1.7e-05,0.512,0.343,203.852
+6x6XKEUcCJGUACD4Xh7KuP,Anchor,Novo Amor,Anchor,0,256282,happy,0.486,0.356,9,-13.649,1,0.0318,0.755,0.861,0.0986,0.111,117.141
+5pGV2AfDflnhL72pK1oIaR,Gone Away,Austin Harms,Gone Away,25,169721,happy,0.47,0.46,4,-11.598,1,0.0613,0.319,1.45e-05,0.115,0.322,116.821
+54KFQB6N4pn926IUUYZGzK,To Build A Home,The Cinematic Orchestra,Ma Fleur,76,371320,happy,0.264,0.122,9,-15.399,1,0.0349,0.885,0.349,0.094,0.0735,148.658
+5hXTMmVXz1Ablgu34BkTz1,Angel's Song,Arlo Parks,Angel's Song,48,197243,happy,0.693,0.195,11,-15.278,0,0.0446,0.894,0.0325,0.126,0.315,116.725
+02WacdrRpm4zlP8H7X6bnQ,Dancing On My Own,Calum Scott,Dancing On My Own,1,260004,happy,0.608,0.174,1,-8.796,1,0.0332,0.851,1.92e-05,0.0855,0.193,112.175
+1EwyAL8SdJpIX0M9b1ArAp,Somewhere Only We Know,Valentin,Somewhere Only We Know,0,193750,happy,0.472,0.305,8,-11.465,1,0.0295,0.84,0,0.142,0.584,165.9
+1wHSxWBfPr3GO31y8KGrWe,Wish You Were Here - 2011 Remastered Version,Pink Floyd,Wish You Were Here [2011 - Remaster] (2011 Remastered Version),0,334743,happy,0.481,0.262,7,-15.73,1,0.0414,0.735,0.0114,0.832,0.375,122.883
+6vG1pcmNGdG6Vu62I9nLGL,K.,Rosie Carney,K.,49,269000,happy,0.348,0.226,3,-10.918,1,0.0386,0.962,0.00483,0.135,0.173,129.251
+5a6pdCHlWS2ekOOQ70QnAr,July,Noah Cyrus,July,1,156106,happy,0.708,0.186,9,-8.953,0,0.0422,0.868,0,0.0779,0.321,72.541
+06qUEhhx6jKQmhj2qAkn4H,Trying My Best,Anson Seabra,Trying My Best,0,222467,happy,0.561,0.0587,5,-17.819,1,0.0762,0.95,0,0.0828,0.342,143.027
+7ggHQsGP7K3V65lqBwleWO,I'm with You,LEFT.,I'm with You,46,184363,happy,0.587,0.468,7,-10.316,0,0.0386,0.544,0.000154,0.1,0.176,82.426
+7sTtHHrD0zDpmzQzH3zegz,Consequences,Camila Cabello,Camila,69,178466,happy,0.455,0.292,0,-6.792,1,0.0563,0.889,0,0.106,0.43,84.339
+0ewX9JsKy9oa4IifkFSroa,Slow It Down,The Lumineers,The Lumineers,0,305346,happy,0.423,0.0657,1,-14.421,1,0.0386,0.928,1.4e-06,0.0922,0.105,98.489
+0pdKRp2sUthTPe7RLWpPqQ,You're Somebody Else,flora cash,You're Somebody Else,76,218883,happy,0.713,0.452,1,-9.638,1,0.0295,0.841,0.0038,0.105,0.235,102.963
+3U4isOIWM3VvDubwSI3y7a,All of Me,John Legend,Love In The Future (Expanded Edition),87,269560,happy,0.422,0.264,8,-7.064,1,0.0322,0.922,0,0.132,0.331,119.93
+5Iy1wdO0tMaHwKnfFYtlel,Cursive,Billie Marten,As Long As - EP,62,240400,happy,0.494,0.267,0,-11.54,1,0.0308,0.935,5.58e-05,0.128,0.166,115.117
+13PUJCvdTSCT1dn70tlGdm,"Welcome Home, Son",Radical Face,Ghost,0,285320,happy,0.601,0.537,6,-9.464,1,0.0296,0.743,0.732,0.143,0.394,144.994
+1jeH74UaH5xFnLo73haMQl,Hazy Memories,Caravn,Hazy Memories,33,177142,happy,0.455,0.317,9,-8.031,1,0.0448,0.9,0,0.0962,0.44,71.113
+1ZekzmhuM380sFcUZePjmL,Teardrop - Remastered 2006,Massive Attack,Bite Size Massive Attack,0,328026,happy,0.612,0.463,11,-7.653,0,0.035,0.0204,0.653,0.183,0.17,76.98
+1RPXpk7oHjhEVvNSDtHruZ,I Wanna Bitch Like Dillion Harper,KAMAARA,Next Time You See Me I'll Be Dead on Your Doorstep ||,59,105971,fearful,0.771,0.872,8,-4.996,1,0.321,0.0739,2.82e-05,0.137,0.51,144.956
+4QzeLM4ENfo3C3a65IDQHE,Soup For Dogs,Istasha,Soup For Dogs,36,138528,fearful,0.78,0.808,8,-9.633,0,0.448,0.134,0.000385,0.0784,0.361,158.018
+3pXVmZh293nWtqxildz9jf,Miss YOU!,CORPSE,Miss YOU!,70,92856,fearful,0.792,0.829,2,-6.612,1,0.256,0.00103,0.0755,0.582,0.17,93.044
+7bCfHiRcfUjG0YVVNUL7Ve,E-GIRLS ARE RUINING MY LIFE!,CORPSE,E-GIRLS ARE RUINING MY LIFE!,76,105176,fearful,0.614,0.937,1,-7.443,1,0.115,0.00161,0.00136,0.103,0.386,84.98
+2NnJpRXIlx35Vij3bPZO0h,DAYWALKER! (feat. CORPSE),Machine Gun Kelly,DAYWALKER! (feat. CORPSE),73,137746,fearful,0.632,0.922,7,-2.173,1,0.0794,0.00558,1.81e-05,0.0927,0.497,88.972
+7v4pPS4A7NgY7bxFA3Etv3,HOT DEMON B!TCHES NEAR U ! ! !,CORPSE,HOT DEMON B!TCHES NEAR U ! ! !,78,96000,fearful,0.788,0.764,7,-4.054,1,0.254,0.00918,0,0.224,0.841,100.095
+4tkfqDjIzBQUywrG0y8Noe,Feasting.On.The.Guts.Of.Angels.,Grim Salvo,Feasting.On.The.Guts.Of.Angels.,53,235380,fearful,0.75,0.922,8,-6.481,0,0.089,0.217,4.23e-05,0.283,0.723,129.992
+2cPxTPqijwFVpLxfszJnxQ,Squishy Caterpillars Riding On Bullets,Istasha,Squishy Caterpillars Riding On Bullets,44,230322,fearful,0.72,0.683,10,-7.794,0,0.0537,0.0238,0.59,0.538,0.299,124.029
+3AQdBQPDyHQpEauct5Fiu6,White Tee - Alternate Bass Boosted Version,CORPSE,White Tee (Alternate Bass Boosted Version),62,121846,fearful,0.892,0.834,1,-3.413,1,0.194,0.00455,0.00172,0.319,0.388,130.042
+4SPBwOTXgku4QvmRtMEGfW,Cat Girls Are Ruining My Life!,CORPSE,Cat Girls Are Ruining My Life!,68,97317,fearful,0.644,0.883,1,-6.985,1,0.473,0.0119,0,0.377,0.522,164.158
+44NWKA3vUBO6TL1Bon1W0k,TECHNO THOT!,KAMAARA,TrenchBoy||,45,124114,fearful,0.67,0.891,1,-4.181,1,0.17,0.000907,0,0.131,0.176,100.021
+0JEsKJGjxpfdzzqQGwizOI,Surfing With Lippincott,Istasha,Djuphavsgraven,27,156923,fearful,0.666,0.866,11,-5.759,0,0.644,0.0474,0.00142,0.382,0.291,182.072
+40x0fGniIb1we6v9Ku6Y1L,The Trail Runs Cold,Istasha,Djuphavsgraven,27,137987,fearful,0.64,0.913,1,-5.596,0,0.765,0.0142,0,0.397,0.446,181.995
+6MknWxVxaShYEmx2BEaWZk,Fever Dreams,Istasha,Fever Dreams,47,113113,fearful,0.876,0.784,2,-7.438,1,0.122,0.000912,0.192,0.141,0.399,107.003
+7DnzFv13xi3ww9Zt4LuPL5,White Noise,Istasha,Down the Infinite Well,44,124278,fearful,0.797,0.984,6,-0.636,1,0.312,0.0595,0.000112,0.17,0.515,174.001
+0SiLtq2UDJkQ45IR5YCQrK,"Hypothetically, We All Know Where This Is Going",Istasha,"Hypothetically, We All Know Where This Is Going",41,222545,fearful,0.727,0.488,11,-12.845,1,0.278,0.0348,0.0132,0.146,0.176,110.055
+0juT93wLSpFwV3euDIemQd,Canvas,Istasha,Djuphavsgraven,28,147647,fearful,0.859,0.868,11,-4.432,0,0.29,0.114,0.000184,0.364,0.395,101.959
+04bEhujOxzNrXeideMtFuR,Never Satisfied,CORPSE,Never Satisfied,67,119431,fearful,0.561,0.964,1,-6.593,1,0.522,0.0118,3.78e-06,0.875,0.452,160.088
+5BcRq1qZchaZIdUOTfU8AO,Neo Titanic,Istasha,Djuphavsgraven,26,176431,fearful,0.741,0.891,11,-5.656,0,0.309,0.276,0.000121,0.157,0.514,176.025
+4CPjZTZ2nphfgVJYdlZFyJ,Mutiny,Istasha,Djuphavsgraven,29,176703,fearful,0.87,0.833,1,-5.363,1,0.281,0.00524,0.000195,0.181,0.512,123.991
+5dNbKBCB99HLh0p9mjfur2,Come Get Your Omega-3,Istasha,Come Get Your Omega-3,45,134797,fearful,0.759,0.672,1,-7.907,1,0.221,0.0106,0,0.615,0.165,147.988
+0xB3OtqKXH2OgPX1VWdJrx,Brickwall Brickwall Brickwall,Istasha,Brickwall Brickwall Brickwall,39,150000,fearful,0.776,0.712,1,-9.785,0,0.244,0.0147,0.00934,0.602,0.439,120.024
+7gQlGAb4BDWWXahEONVjVn,Dr0nched In Sw0t,KAMAARA,TrenchBoy||,58,252482,fearful,0.6,0.856,9,-6.793,0,0.412,0.0396,0.000145,0.775,0.318,87.005
+75KD8VdvYovyA7IjTSTIzK,USPS,KAMAARA,TrenchBoy||,43,173001,fearful,0.789,0.92,6,-5.798,0,0.204,0.0739,8.23e-05,0.11,0.94,172.105
+5fcYKtJMNTiBltDsT7SpzA,Fuck ALL the Pain,KAMAARA,Cowboy Cutie,50,117809,fearful,0.348,0.963,7,-4.516,1,0.655,0.0748,3.6e-05,0.346,0.543,126.52
+5IlnmN5Hs9kvRsbP6pyejP,https://murder. com,7xvn,https://murder. com,48,65410,fearful,0.813,0.653,7,-8.841,1,0.307,0.228,0.177,0.0753,0.632,150.05
+2IiTLiKJbyuua5vh0jD6HT,Bully,KAMAARA,TrenchBoy||,47,99130,fearful,0.666,0.913,9,-6.546,1,0.215,0.00113,2.52e-05,0.122,0.719,178.042
+7wzbufdRtWncYjcUrmk01B,TrenchWorld,KAMAARA,TrenchBoy||,56,222876,fearful,0.385,0.963,10,-4.483,1,0.119,0.0057,0.00197,0.25,0.522,155.025
+5Q7JUXXghzKqPPS2IrJK8O,a mosh pit love story,Savage Ga$p,a mosh pit love story,49,117394,fearful,0.582,0.961,5,-4.662,1,0.436,0.00478,0,0.637,0.725,175.032
+1oryb08UXW3abRfyLzWQ9k,onlyfans.com/sommerray,KAMAARA,TrenchBoy||,38,235535,fearful,0.831,0.957,10,-6.268,1,0.231,0.00438,0.000221,0.245,0.857,130.038
+1RuFnaC0MgVMmJorDJSpgG,"Somewhat Interesting, Mostly Placebo",Istasha,"Somewhat Interesting, Mostly Placebo",38,210674,fearful,0.693,0.617,10,-13.142,0,0.487,0.0175,0.0513,0.041,0.371,177.866
+0nw3E6WwFR8vW3vxOvaUYV,Wasp Tongue,Istasha,Wasp Tongue,42,125735,fearful,0.835,0.506,1,-9.543,1,0.0641,0.0337,0.154,0.092,0.145,105.021
+7oDUCu36rMex65tc03C8er,RUN UP!,iamjakehill,RUN UP!,60,139005,fearful,0.598,0.834,1,-4.79,1,0.196,0.123,0,0.338,0.603,84.488
+6VwBj1x2WgEBZPxYhOm7g7,Rigor Mortis,Original God,Antagonist,48,143000,fearful,0.677,0.962,7,-0.814,1,0.284,0.11,0.325,0.496,0.509,95.025
+7Cq27Qc3WRyQ3ddwVslpVZ,Heart Attack,Scarlxrd,Chaxsthexry,67,193567,fearful,0.585,0.895,11,-3.663,0,0.136,0.0505,0.00423,0.32,0.181,119.904
+6hyUZdooUXpquHKHbte1FJ,владыка,Ghostemane,LXRDMAGE,55,114000,fearful,0.742,0.83,10,-9.024,0,0.345,0.0484,0.00079,0.454,0.749,80.029
+0IZsObFK8hH1IWm1oJW3Ds,маг,Ghostemane,LXRDMAGE,61,160000,fearful,0.667,0.918,11,-7.299,1,0.292,0.00645,0.000254,0.0936,0.669,173.981
+68S9nUryrRfdjavft0aQyX,навсегда,Ghostemane,LXRDMAGE,57,168250,fearful,0.743,0.828,1,-6.233,1,0.106,0.0415,0.5,0.134,0.21,150.01
+5Sy5144ALSbBssUa6puFmD,SOUL SNATCH,Witchouse 40k,SOUL SNATCH,46,166153,fearful,0.752,0.875,11,-7.809,1,0.116,0.0131,0,0.5,0.349,104.057
+16BOxCRVDsMYlgbzscMoFs,heartRACE,outsiderX,heartRACE,35,159786,fearful,0.308,0.978,2,-7.614,1,0.138,0.072,1.33e-05,0.15,0.613,168.026
+5M829SzNTb13noMwswbVbV,RAGE TALK,ERU,RAGE TALK,33,126810,fearful,0.512,0.768,5,-9.29,0,0.31,0.0227,5.25e-06,0.132,0.435,91.928
+40AsCBaiciFzwnEnjascVt,Ergot,Grim Salvo,Dolores,52,193530,fearful,0.457,0.763,1,-5.597,1,0.0881,0.0212,3.69e-05,0.24,0.346,99.576
+6qwEeAl6Cl32odNr2GIMjm,EXORCIST,Kxllswxtch,KILL!,67,94235,fearful,0.779,0.911,1,-6.341,0,0.458,0.011,0,0.047,0.269,160.004
+5nSXDikHZ5jyaNS1MqZXqD,Liu Kang,ONI INC.,Liu Kang,50,188000,fearful,0.474,0.87,5,-5.647,1,0.31,0.00823,0.00614,0.423,0.795,86.85
+0vbzky4sadkAc257saxqtC,Red Rum,Sect Unit,Red Rum,32,106906,fearful,0.721,0.52,1,-13.456,0,0.224,0.285,0.28,0.131,0.0786,160.437
+1UtQqnk6S1PX4P50o9Mcsc,Lurch.Lung,Grim Salvo,Lurch.Lung,44,236424,fearful,0.393,0.884,2,-5.947,1,0.355,0.0124,5.71e-06,0.0872,0.315,82.984
+51NeM9IrhWtr6ZnfFpijWA,Catastrophic,gizmo,Catastrophic,54,132081,fearful,0.858,0.55,1,-7.559,1,0.112,0.0624,0.00409,0.0746,0.659,123.988
+2xJxJEo5Bmw6K37ZqPrwXC,Snort Cocaine for Jesus,Istasha,Scrub Tape,52,140247,fearful,0.582,0.971,8,-4.137,1,0.317,0.000291,0.813,0.322,0.441,154.242
+7HPY5EAOs3ryjWEDYsVakZ,BAD BLOOD,outsiderX,BAD BLOOD,51,192000,fearful,0.603,0.821,11,-7.696,1,0.0855,0.00112,0.000402,0.586,0.347,75.027
+1osrWnGjARZkd2uy8wA9rj,Chemical Peel Freestyle,Grim Salvo,Dolores,41,163962,fearful,0.633,0.862,9,-7.167,1,0.384,0.103,1.41e-05,0.0563,0.624,169.839
+7HmY8dAfOJ7IBMbc26LXMy,Benny Please Come Pick Me Up,Istasha,Benny Please Come Pick Me Up,32,141105,fearful,0.772,0.896,1,-7.709,1,0.167,0.118,0.483,0.768,0.281,99.475
+09VtEQutBiEEXvCV1MDigF,10:1 Ikejime,Grim Salvo,10:1 Ikejime,43,181578,fearful,0.744,0.744,0,-5.957,1,0.226,0.0755,4.36e-05,0.105,0.807,152.012
+2oSsd3E1D6D7MHgXJVPQu3,DON'T SAVE ME,TWENTYTHREE,DON'T SAVE ME,54,161433,fearful,0.716,0.739,1,-8.148,1,0.101,0.0145,0.8,0.115,0.0609,140.001
+6zGtk544xlWZH5zzuBMpyF,Moth Grinder,Grim Salvo,Dolores,53,194651,fearful,0.693,0.699,11,-8.631,0,0.101,0.0671,0.0111,0.146,0.197,86.011
+4t717hHZUTpXK9fl6n6pxN,CLOSE TIES,Grim Salvo,CLOSE TIES,45,195348,fearful,0.64,0.864,1,-6.311,1,0.219,0.0448,0.000827,0.116,0.323,171.922
+0Dlc3BFS4l4A6B6m1Kw7v1,Koala Teeth,Istasha,Koala Teeth,40,169127,fearful,0.706,0.661,1,-11.185,1,0.178,0.00501,0.00776,0.184,0.591,149.09
+4m3fvc42Jxda1bld6kOD9j,Hentai Bounce,ONI INC.,7DEMONS,47,187200,fearful,0.462,0.95,8,-1.827,1,0.496,0.00973,0.0269,0.313,0.572,99.983
+77iJlK3UBnJ6ifrKHbvtbf,Ragnarok,XZARKHAN,RAGNAROK,44,138000,fearful,0.513,0.855,1,-6.778,1,0.361,0.0889,0,0.165,0.333,165.005
+6VmBrjdQF1rkXLODBx1HLC,WARZONE,Vitamjn,WARZONE,24,121445,fearful,0.563,0.943,10,-1.78,0,0.353,0.00676,0,0.322,0.795,82.823
+4SzxUhwXZfFDHdq7Ib5HxJ,I rest my case,Kuma the Third,I rest my case,59,105639,fearful,0.928,0.519,10,-8.762,0,0.3,0.105,0.0403,0.0542,0.765,99.952
+44HTB1tVxwVDoRtUstaucO,Tinnitus,Lord Gasp,Tinnitus,1,132923,fearful,0.847,0.704,1,-6.053,1,0.131,0.0171,0.00186,0.102,0.435,97.53
+2XwJZiV2lAr67CyBmK4xeC,The Heat From The Sun Is No,Istasha,Wax Figures In The Sky,42,164285,fearful,0.648,0.775,0,-9.874,1,0.213,0.0124,0.0493,0.174,0.268,84.005
+70Sel93kyhDH0eTaGYSff3,When Your Son Is Venison,Istasha,Wax Figures In The Sky,30,118666,fearful,0.807,0.752,9,-9.786,1,0.4,0.00556,7.54e-05,0.0715,0.424,180.337
+63M8ofeT9rOPsNaCf1VGmU,Infiltrate,OmenXIII,Hacker,46,246908,fearful,0.829,0.822,5,-8.176,1,0.341,0.0567,0.00179,0.487,0.155,139.994
+7gea8ehRvneXkfPtbFcl2M,I Feel Dead,OmenXIII,Hacker,42,139936,fearful,0.707,0.663,10,-8.766,0,0.357,0.691,2.36e-05,0.155,0.545,150.994
+7wPU6El7Qyh68aci3CBOf6,Night Walkers,OmenXIII,Hacker,20,139414,fearful,0.89,0.591,1,-6.337,1,0.355,0.624,0.773,0.0832,0.572,123.938
+1bQFIbRprBgR5dZi5cwlRd,PALE ORCHARD,TWENTYTHREE,PALE ORCHARD,48,176031,fearful,0.649,0.684,5,-9.762,0,0.258,0.216,7.99e-05,0.501,0.346,92.499
+2cWpNuyBL4trJFEvbY2OwV,WRONG STEP,TWENTYTHREE,WRONG STEP,46,168247,fearful,0.702,0.424,6,-11.269,0,0.0688,0.0816,0.000614,0.305,0.127,97.023
+3kuXmMSeMPl2GztP91Y1MD,FeelTheBurn2020,KAMAARA,TrenchBoy||,33,110174,fearful,0.779,0.935,5,-5.866,0,0.24,0.038,0,0.59,0.865,165.85
+4vMOcfoONcnMFNOn5KGGSz,Grape Ape,R9,Grape Ape,14,99706,fearful,0.72,0.923,1,-10.966,1,0.186,0.00606,1.57e-06,0.327,0.525,174.914
+1PHiQZJ84ZJH1m6mienw1A,YOUDON'TKNOWME,NOVISION,YOUDON'TKNOWME,27,144744,fearful,0.733,0.868,1,-4.555,1,0.296,0.0265,0,0.122,0.403,146.074
+2lUhsNyIamPMC4pGt0H3KV,MOCKSHEEP,Y$57,MOCKSHEEP,8,157718,fearful,0.647,0.775,1,-4.65,1,0.0363,0.000464,0,0.342,0.283,140.029
+7l5GAw0cglUUnN7bKAz5ab,I Chose Violence,iamjakehill,I Chose Violence,67,139870,fearful,0.676,0.717,7,-8.641,1,0.323,0.323,0,0.118,0.451,162.016
+3V099NYu3RpnO4bKqolwI4,Dried Out Feathers,Istasha,Dried Out Feathers,45,133716,fearful,0.647,0.765,11,-9.495,0,0.467,0.0113,0.00643,0.144,0.358,184.142
+1jJqmhwqRk0ojRHIU9l74v,b!tch stop,lilbubblegum,b!tch stop,39,108638,fearful,0.869,0.813,6,-8.246,1,0.311,0.00445,0.00343,0.177,0.602,80.009
+455rWKo3zlNl0hJ5bSMq49,Bible Black,Scarlxrd,Bible Black,53,190728,fearful,0.758,0.856,6,-2.923,0,0.0714,0.00237,1.68e-05,0.226,0.351,151.027
+6moq1tqcuva009QzFoNW5V,Red Light,Scarlxrd,Dxxm II,52,138501,fearful,0.567,0.995,6,2.044,0,0.275,0.019,0,0.345,0.735,170.176
+6oQbyJxwgFDsPYmJ4w9FRy,Bitch (feat. Rosa Chemical),Joe Scacchi,Bitch (feat. Rosa Chemical),29,178674,fearful,0.633,0.782,10,-6.358,0,0.152,0.0475,5.83e-06,0.148,0.451,122.091
+3caD2FBFxYhlnJMdR19FJo,Perestroika,Istasha,Djuphavsgraven,29,156923,fearful,0.664,0.94,9,-4.578,1,0.316,0.0975,1.25e-06,0.325,0.516,78.018
+7MxwI8gGaUAMXPrzncz72t,"I can be your angle, or yuor devil",Istasha,"I can be your angle, or yuor devil",39,228000,fearful,0.834,0.601,8,-8.591,1,0.15,0.161,0.0219,0.114,0.234,100.027
+2qUuP1AaT9opDTyFFOnCiq,Abrakadabra,Sinoda,Abrakadabra,58,148212,fearful,0.853,0.395,8,-11.538,1,0.107,0.169,0,0.301,0.444,124.936
+23ACiTCUoQAIrO2CUQM6eT,Nimdok,Istasha,Nimdok,25,150587,fearful,0.858,0.907,1,-5.477,1,0.401,0.171,0.00212,0.247,0.564,166.048
+3ZRjBcI50Ejs0NY8cRkE0l,WE CAN'T AGREE WHAT TO NAME THIS SONG,Lil Darkie,WE CAN'T AGREE WHAT TO NAME THIS SONG,41,733208,fearful,0.43,0.909,5,-2.969,0,0.456,0.0137,0,0.0894,0.606,167.954
+16xCGcnIhaTEPMTpsKZcpC,Sexyback!,EGOVERT,Sexyback!,51,122181,fearful,0.888,0.454,1,-10.374,1,0.265,0.106,0,0.24,0.888,109.943
+4xf0GKQtAJiDpyhgFIB0Gq,0 rischi nel love (feat. tha Supreme) - prod. tha Supreme,Mara Sattei,UNIVERSO,50,153953,fearful,0.806,0.902,1,-4.151,1,0.125,0.00513,0.1,0.032,0.774,123.91
+3g6eYNTdSZxRSbF9qiAhCS,Enfant terrible (feat. Belzebass & Stereoliez),Nitro,"Machete Mixtape, Vol. 3",34,191786,fearful,0.808,0.926,6,-3.858,0,0.283,0.0443,0,0.21,0.491,109.921
+0h4L5swm3E8BalPjySqNAf,LET IT OFF,Kuma the Third,LET IT OFF,46,177737,fearful,0.818,0.479,1,-9.811,1,0.329,0.189,0.000167,0.13,0.12,120.057
+5i2wm0Tc8WXLfd8fKqqSpD,FRENZY,Kuma the Third,FRENZY,43,125361,fearful,0.862,0.577,1,-10.17,1,0.267,0.0388,0.417,0.121,0.376,119.956
+51UWKBPispZmU9s7SNWghy,RADAR,Kuma the Third,RADAR,33,108225,fearful,0.681,0.573,1,-12.026,1,0.361,0.0138,0.461,0.0934,0.41,196.043
+5crjlaRfQivQCn0TmS3pcu,Bear Trap,XZARKHAN,Bear Trap,33,85714,fearful,0.625,0.954,5,-5.419,1,0.206,0.000197,0,0.478,0.468,84.029
+64EA2RKyciBwCuVczLH6Ct,masquerade,siouxxie sixxsta,masquerade,40,144535,fearful,0.608,0.792,9,-5.721,1,0.0355,0.000674,0.653,0.252,0.611,161.104
+14QPT5j9O2RTVY6vkh3KUf,Grimoire: Noir ver.1.77,do not resurrect,"Aim To Please, Shoot To Kill",46,125156,fearful,0.675,0.861,1,-4.953,1,0.0649,0.0374,0.00287,0.379,0.337,95.068
+56vq3LadBqsia0IfLpaECa,"Aim To Please, Shoot To Kill",do not resurrect,"Aim To Please, Shoot To Kill",45,125160,fearful,0.731,0.856,2,-6.044,1,0.104,0.142,0.00599,0.557,0.418,95.02
+3GZwQmeGaNLbvVdb53VQdk,Sarcophagus,do not resurrect,Sarcophagus,42,125055,fearful,0.539,0.728,11,-11.009,1,0.0612,5.7e-05,0.00112,0.0955,0.17,94.989
+5g3s4AzGVODP2NIlYo9mwN,HECTIC,Dexndre,HECTIC,38,104883,fearful,0.817,0.945,10,-4.436,0,0.167,0.0226,0.0019,0.283,0.803,110.034
+6kRxT8sggyNJ6mYoSKTwCh,2077,do not resurrect,2077,55,135074,fearful,0.757,0.814,6,-6.873,1,0.179,0.0304,0.257,0.131,0.741,118.078
+4ORq9YBkNsalTAmmMKgluQ,SAY AHHH!,7xvn,SAY AHHH!,41,91153,fearful,0.887,0.835,7,-6.654,1,0.204,0.00623,0.000272,0.685,0.329,130.028
+6ko1zjCx5yudcV7gbiIl2r,NoFaceNoCase.Exe,7xvn,NoFaceNoCase.Exe,41,71328,fearful,0.937,0.611,1,-11.311,1,0.297,0.447,0.726,0.117,0.373,130.0
+4K4PzBvPwIeOCxRM7iqxdt,LOSER!,7xvn,LOSER!,34,99459,fearful,0.595,0.955,5,-2.985,1,0.282,0.0157,0.00865,0.226,0.62,111.114
+5tEbcJiFciqdvoCjnnySXi,LEASH,7xvn,LEASH,27,74300,fearful,0.6,0.648,7,-9.149,1,0.304,0.0984,0.595,0.117,0.53,130.161
+6kkwzB6hXLIONkEk9JciA6,Weightless,Marconi Union,The Ambient Zone Just Music Cafe Vol 4,68,480106,calm,0.139,0.22,2,-19.974,0,0.0324,0.856,0.831,0.17,0.0789,71.432
+3BdVeHmCKUrb4LTU0Kpw7Z,The Wider Sun,Jon Hopkins,Insides,0,154933,calm,0.0729,0.211,3,-17.41,1,0.0332,0.895,0.76,0.133,0.0393,79.509
+6PJS1eFGk0YTlBoyZGPC2K,Catalina 1943,Loscil,Sea Island,22,394146,calm,0.0855,0.176,2,-21.24,0,0.0393,0.712,0.933,0.0976,0.0377,84.447
+6shMq3iAjg2uvn36R4MpYG,Theme,Jóhann Jóhannsson,And In The Endless Pause There Came The Sound Of Bees,0,203000,calm,0.129,0.194,9,-15.064,0,0.0449,0.858,0.816,0.366,0.0655,53.981
+0Z5oEza6OKWhXJBVnlCWzl,Radiant City,Robin Guthrie,Bordeaux,39,293480,calm,0.223,0.0828,2,-24.326,1,0.0563,0.99,0.828,0.0828,0.0359,129.825
+1Mua0g96hUldJWj00GDsel,Weightless Part 6,Marconi Union,Weightless (Ambient Transmission Vol. 2),55,310146,calm,0.273,0.174,4,-19.513,0,0.0368,0.819,0.963,0.147,0.286,64.758
+67ueqG7zQu0621u1bnDNxP,For Years and Years,Helios,Eingya,27,333360,calm,0.147,0.161,1,-19.923,1,0.0369,0.942,0.883,0.116,0.0367,56.985
+6ONMIrYmLAF2523vlCQclj,Abandon Window,Jon Hopkins,Immunity,0,297493,calm,0.169,0.187,6,-25.116,1,0.0484,0.82,0.804,0.0974,0.136,127.614
+26DfyGCOA7F4AaVtcHIFg5,Girth Rides A (Horse) +,The Dead Texan,The Dead Texan,28,153666,calm,0.157,0.0883,4,-19.964,1,0.0355,0.975,0.849,0.0823,0.0373,79.155
+3uPsPTUz3rRLEGtTY16CAx,Sturgeon Bank,Loscil,Sea Island,23,360946,calm,0.522,0.151,5,-23.49,1,0.0362,0.95,0.93,0.0951,0.044,99.992
+7bKOKehXTXYiIz5305Cokp,Flicker,Dan Arborise,The Ambient Zone Just Music Cafe Vol 4,34,113466,calm,0.697,0.133,0,-25.484,1,0.0452,0.92,0.928,0.271,0.241,103.796
+6oFkHW4OjGo9KhRvGRvKqa,Sense,Digitonal,The Ambient Zone Just Music Cafe Vol 4,37,384120,calm,0.568,0.239,5,-14.44,0,0.0266,0.922,0.728,0.112,0.0893,84.991
+1PS4cPiC1jmEf1nZJMulU1,Prelude,O.P.,The Ambient Zone Just Music Cafe Vol 4,36,196800,calm,0.284,0.12,2,-17.04,0,0.0301,0.969,0.926,0.101,0.0535,89.729
+067SxShIVLY65pTSTCUck8,Little Rays,Echaskech,The Ambient Zone Just Music Cafe Vol 4,33,465920,calm,0.322,0.43,0,-15.605,1,0.0371,0.897,0.963,0.109,0.0656,160.037
+0kNaQSh3Y4zBTxTPcYNGrt,Beneath The Ivy,Loner,The Ambient Zone Just Music Cafe Vol 4,36,118826,calm,0.606,0.0165,0,-18.561,1,0.0567,0.993,0.814,0.143,0.358,61.631
+6IEumoHQxZ81JjCTNUm11H,Radiant,Honeyroot,The Ambient Zone Just Music Cafe Vol 4,33,544413,calm,0.592,0.365,2,-14.756,0,0.0281,0.653,0.878,0.411,0.0851,89.997
+5TtzwokIS1uyjqmCxIntws,A Drifting Down,Jon Hopkins,The Ambient Zone Just Music Cafe Vol 4,33,398946,calm,0.0634,0.459,5,-15.451,0,0.0423,0.768,0.443,0.178,0.0396,61.229
+6DDkZiptbtBbX9gWYaLhEI,Under The Glow,Laki Mera,The Ambient Zone Just Music Cafe Vol 4,32,484280,calm,0.47,0.26,1,-14.407,1,0.0291,0.976,0.949,0.0928,0.0628,136.005
+2dQHoAE1ce0fJwovwsUQnl,Seeing Stars,Leo Abrahams,The Ambient Zone Just Music Cafe Vol 4,30,226506,calm,0.209,0.216,10,-14.767,1,0.0347,0.96,0.916,0.341,0.0362,119.791
+5ub6xTa8h0f2kohHQVcjwg,Slowtide,Viragi,The Ambient Zone Just Music Cafe Vol 4,30,157906,calm,0.252,0.515,0,-17.049,1,0.0475,0.951,0.946,0.0923,0.26,60.759
+386Rlhf3WBUpYwLbqJf22L,Laguna,Andrea Terrano,The Ambient Zone Just Music Cafe Vol 4,30,340880,calm,0.338,0.128,9,-19.95,0,0.0365,0.805,0.919,0.109,0.196,112.827
+2eOaJIuBfvoV3UoOE04bss,These European Cities,Marconi Union,Distance,33,432093,calm,0.152,0.317,9,-18.011,0,0.0344,0.89,0.639,0.0845,0.0389,79.64
+1iv0m0jeMDOnUMi6TtbM6Z,History,Benn Jordan,Cosmic Wonder (Original Motion Picture Score),15,143080,calm,0.18,0.124,3,-23.246,1,0.0402,0.99,0.985,0.11,0.0426,71.773
+5DjNm2iw6u1rwdPWVustEx,Elm,Hammock,Maybe They Will Sing for Us Tomorrow,0,326853,calm,0.0785,0.316,2,-14.861,1,0.0412,0.582,0.957,0.151,0.0498,68.815
+4FmxG4JYMDVgaXaZselNRD,Debris,Marconi Union,A Lost Connection,23,292053,calm,0.121,0.169,9,-25.039,0,0.0381,0.864,0.878,0.186,0.04,148.811
+2Uy2p6tkVLj6vaVznKpNCs,"Articulate Silences, Pt. 1",Stars Of The Lid,And Their Refinement of the Decline,43,324400,calm,0.147,0.0865,2,-25.095,1,0.0477,0.99,0.909,0.0774,0.032,140.612
+67zSxCvYBX1fahPPlsLjdI,Claroscuro,Bruno Sanfilippo,Claroscuro,21,357773,calm,0.101,0.229,10,-12.76,1,0.0354,0.703,0.913,0.101,0.134,87.904
+31SMMd2BarFJp52KQFqt9j,Blue Collar Parade,Marconi Union,Beautifully Falling Apart (Ambient Transmissions Vol 1),25,493280,calm,0.266,0.128,10,-22.831,1,0.0338,0.748,0.921,0.0808,0.039,59.921
+69mkXHFNIhnUDRrMXyco2m,Luna,Digitonal,Beautiful Broken,18,228506,calm,0.381,0.27,7,-12.623,0,0.0377,0.981,0.93,0.0997,0.0636,75.015
+19i0eqVS2lrRToPje5e6Rg,"Articulate Silences, Pt. 2",Stars Of The Lid,And Their Refinement of the Decline,38,337173,calm,0.0675,0.124,2,-22.864,1,0.0492,0.699,0.815,0.104,0.031,75.321
+0i8hQhaC3Q2p89Tv9o4bDL,Several Tries (In an Unelevated Style),Brian McBride,The Effective Disconnect,17,464520,calm,0.141,0.0842,0,-27.521,1,0.0386,0.958,0.941,0.0607,0.0304,141.605
+6vAdLrIH29ejggTSrPxYfK,Autumn Round,Digitonal,Beautiful Broken,13,222306,calm,0.56,0.232,7,-11.623,0,0.0297,0.923,0.407,0.0856,0.186,119.996
+56rN3Zh03LVnJ5kR1VTRJN,Weightless Part 5,Marconi Union,Weightless (Ambient Transmission Vol. 2),55,440333,calm,0.311,0.309,7,-19.505,0,0.036,0.891,0.961,0.112,0.231,115.102
+3yv4HAfqOkZJL1RZGokxVi,Immunity,Jon Hopkins,Immunity (Special Edition),0,383346,calm,0.0643,0.119,7,-22.262,1,0.0362,0.947,0.943,0.686,0.0547,62.746
+1U2yPcCNmOk4subSxSljFA,Less,Nils Frahm,Felt,0,333320,calm,0.127,0.094,10,-24.999,1,0.0434,0.797,0.644,0.444,0.185,70.164
+3NerEd57tNaMeaR57mAoJb,Nightfall / Love Theme,Jon Hopkins,How I Live Now (Original Motion Picture Soundtrack),31,68560,calm,0.149,0.187,6,-15.314,1,0.0443,0.989,0.872,0.0949,0.0604,76.04
+4UmwjnEQ4CZy9XmaN52r0I,Lobby,Deaf Center,Pale Ravine,22,181373,calm,0.173,0.0776,6,-26.584,1,0.0395,0.848,0.633,0.133,0.112,72.973
+6vyLaQzLhCjKRdxvwztC1z,Slow Collapse,Marconi Union,Beautifully Falling Apart (Ambient Transmissions Vol 1),23,292306,calm,0.081,0.0776,4,-24.144,0,0.0431,0.987,0.954,0.065,0.0296,169.929
+0RMsGMzDJuTXllcYs4a3Nr,Reciting The Airships,Eluvium,Copia,0,275786,calm,0.0607,0.0948,0,-16.852,1,0.0427,0.282,0.632,0.0851,0.0512,50.341
+4Bpx1CO7TsoaLKxQ4anISr,Opalescent,Jon Hopkins,Opalescent,19,131400,calm,0.176,0.0562,4,-27.252,1,0.048,0.962,0.918,0.141,0.0376,120.25
+6Y9lNtGs1CJElVdIHjDFH6,Welcome to Ibb & Obb,Kettel,Ibb & Obb (Original Soundtrack),15,101718,calm,0.309,0.483,0,-16.185,1,0.0906,0.969,0.791,0.456,0.141,120.687
+1M0lqFM46UUjMZGvgVPCe3,We Travel,Marconi Union,A Lost Connection,29,420920,calm,0.365,0.199,7,-16.432,0,0.0331,0.775,0.916,0.112,0.127,160.006
+1tzXb0kRm7DA45EUen0TqM,Endless Falls,Loscil,Endless Falls,40,475373,calm,0.065,0.172,10,-22.823,1,0.0412,0.761,0.72,0.383,0.0357,52.952
+2FrLjVAp4d08fDZ0Q5fmK8,The Wider Sun,Jon Hopkins,Insides,0,154933,calm,0.158,0.215,3,-17.469,1,0.0351,0.883,0.905,0.123,0.0384,131.932
+2mNyoJuAYp2XVnQCeAedXh,All Farewells Are Sudden,A Winged Victory for the Sullen,A Winged Victory for the Sullen,0,455586,calm,0.161,0.0447,6,-26.039,1,0.0435,0.907,0.896,0.0924,0.0286,131.387
+43PC19flxePX6hG7tg8ViN,Beatrice Part 2,The Dead Texan,The Dead Texan,27,244413,calm,0.152,0.123,8,-22.783,0,0.0432,0.901,0.947,0.111,0.0294,82.508
+6RtdBwIiYavQENjkE6JCba,Don't Go Where I Can't Find You,Eraldo Bernocchi,Winter Garden,39,293626,calm,0.0821,0.104,11,-21.088,1,0.0379,0.985,0.794,0.0907,0.0354,74.773
+2Qm4dfAUswzwna50Rx1p2L,Humectez La Mouture,Stars Of The Lid,and Their Refinement of the Decline,0,331106,calm,0.132,0.0371,4,-22.99,1,0.0355,0.983,0.724,0.094,0.0343,67.874
+4N6nDOQgsL43E5Jj73c1K7,Iona,Loscil,Sea Island,23,514826,calm,0.204,0.185,10,-21.373,0,0.0339,0.963,0.682,0.0753,0.0394,99.999
+6uzXMw1pYMRqoLlh67pSQi,Hipnoide,Bruno Sanfilippo,ad Libitum,0,216080,calm,0.168,0.0504,7,-28.421,1,0.0379,0.975,0.965,0.388,0.0385,112.104
+0J88mrTBn9k3ga1FUCXYpY,Hinterland,Marconi Union,A Lost Connection,29,352013,calm,0.5,0.262,7,-17.922,1,0.0316,0.895,0.916,0.11,0.0333,120.012
+3OgkfYg13Jj96E982moWje,Dungtitled (In a Major),Stars Of The Lid,And Their Refinement of the Decline,47,354120,calm,0.112,0.208,9,-22.618,1,0.0552,0.949,0.935,0.101,0.0285,74.31
+1HNMmn42era63T3UNUMin7,Sleeping Giant,Jónsi,Riceboy Sleeps,0,442973,calm,0.116,0.333,1,-26.366,1,0.0573,0.292,0.664,0.216,0.283,87.315
+5xZ8Sg1ZHdAAuJDmGlqYg1,Overline,Digitonal,Be Still My Bleeping Heart,10,253666,calm,0.275,0.475,3,-9.302,1,0.0351,0.951,0.85,0.0923,0.0393,82.062
+3I40DteYSPPdJbsy0Hgtkh,A Temporary Life,Marconi Union,Distance,37,304933,calm,0.347,0.105,0,-24.15,1,0.0429,0.85,0.792,0.11,0.0358,120.011
+0fTVwAqlELrdKcR9rPHCMY,Atomos III,A Winged Victory for the Sullen,Atomos,17,296053,calm,0.172,0.0548,5,-19.482,0,0.042,0.939,0.871,0.126,0.0333,62.114
+4lqCenunVHZ8F71MS2kbv5,The Little Light Fades,Robin Guthrie,Emeralds,11,188386,calm,0.122,0.169,4,-21.125,1,0.0453,0.968,0.956,0.0754,0.0377,88.387
+4v0uDm60hHbSSP2Zt4ZBpy,First Light,Marconi Union,Different Colours,30,456986,calm,0.127,0.334,5,-14.519,0,0.0319,0.688,0.925,0.0794,0.0343,149.685
+5TG7GekGj90n96bg7fPtL8,Stationary,Marconi Union,A Lost Connection,29,508133,calm,0.496,0.236,0,-18.233,0,0.0391,0.735,0.919,0.0811,0.0352,159.953
+3HmaWmE88E8hmdChDtFTWY,Breathing With Assistance,Marconi Union,Beautifully Falling Apart (Ambient Transmissions Vol 1),29,481720,calm,0.282,0.149,5,-25.729,1,0.0547,0.874,0.897,0.119,0.0479,119.003
+3hIvvY57Np2CeWde5xtqxM,Deer,Swod,Sekunden,13,225946,calm,0.402,0.455,10,-11.296,0,0.0294,0.898,0.418,0.276,0.309,160.455
+5zp2Y4RRZ11GPDj7jzr4Xl,Cadence,Robin Guthrie,Fortune,16,208190,calm,0.457,0.206,2,-16.92,1,0.0312,0.852,0.873,0.109,0.13,107.99
+70FfytITXJOz0s2xY3rOzz,Weightless Part 3,Marconi Union,Weightless (Ambient Transmission Vol. 2),57,458906,calm,0.0746,0.156,9,-24.007,0,0.0393,0.863,0.919,0.105,0.0463,80.494
+5OLKY2P1ig2nJkReEZMlB8,IV,Benn Jordan,Louisiana Mourning,12,103289,calm,0.203,0.185,2,-24.799,1,0.043,0.888,0.976,0.48,0.0287,73.911
+6Me5CyGOU629WDbKTRvo0E,Even Though We Sleep,Stray Theories,Even Though We Sleep,10,316174,calm,0.089,0.181,9,-20.324,1,0.0334,0.753,0.952,0.0522,0.0364,84.933
+3lUZ5NtgheTRBhIAAEoVKu,Sleepless,Marconi Union,Distance,41,341626,calm,0.221,0.209,9,-15.715,0,0.0323,0.872,0.893,0.0839,0.0313,160.171
+4YEKwC3ipNg9LdR02OL8h2,Nothing It Can,Helios,Moiety,45,287520,calm,0.181,0.245,1,-12.333,1,0.0389,0.779,0.899,0.0681,0.0366,109.007
+6SXcfWc6258Tx4urlYY9ll,Interiors,Marconi Union,A Lost Connection,33,388560,calm,0.486,0.314,5,-20.7,1,0.0317,0.914,0.945,0.0947,0.136,119.989
+1k2fEeF7QfxUL9Lhk9RGvy,Melancholia II,William Basinski,Melancholia,0,410986,calm,0.212,0.0375,8,-32.673,1,0.0357,0.983,0.92,0.0775,0.0743,68.211
+0HFklXOxyVyV0bJ55q1wxZ,Largo,Swod,Drei,10,403041,calm,0.444,0.224,4,-14.793,0,0.0389,0.968,0.853,0.0729,0.076,109.992
+4GrU54Y9g2pvrYNrmXb9SI,Buildings and People,Marconi Union,Distance,32,299080,calm,0.443,0.322,11,-15.692,0,0.0298,0.783,0.894,0.112,0.152,149.815
+29NdifW4gYwzO9QyeogZK3,Seeing Stars,Leo Abrahams,Honeytrap,25,235120,calm,0.129,0.225,10,-14.965,0,0.0317,0.967,0.931,0.183,0.0366,76.79
+1sc7nr4cXBBN2PRsxrmls8,Þú ert sólin,Ólafur Arnalds,...and they have escaped the weight of darkness,0,205106,calm,0.285,0.102,0,-19.423,1,0.0339,0.953,0.96,0.0861,0.0742,75.064
+10MJDo72p2fgxPlPYFUMfX,Starscapes - Ambient,The American Dollar,Ambient One,26,469555,calm,0.0768,0.235,7,-14.95,0,0.0333,0.891,0.953,0.0825,0.0366,65.853
+180uAGQ1bObTPr6KXpVy5f,Searchlight,Jon Hopkins,Just Music Cafe Vol. 2 - AM:PM,9,123346,calm,0.173,0.0476,8,-28.163,1,0.0421,0.99,0.963,0.136,0.0319,176.014
+6SOe4RwbzjsLzccfbv7bJq,Renay's Song,Loner,The Just Music Café Album: Acoustic & Beats 01,7,136813,calm,0.388,0.0821,6,-22.062,1,0.0391,0.952,0.894,0.122,0.197,115.412
+10OI2laVteXFZKTREHJHn1,A Distant Light,Marconi Union,A Distant Light,28,388000,calm,0.0671,0.127,4,-34.009,0,0.049,0.487,0.932,0.138,0.0904,74.887
+5Tmlbmha8eWMU6uQ3Z45Ho,New Age Sunrise,Chris Coco,"Ambient Zone 2 (Just Music Café, Vol. 5)",9,321106,calm,0.137,0.0355,0,-23.209,1,0.0345,0.974,0.967,0.0958,0.038,74.537
+4Iuko54yCVAiFMKi8sqzXv,Sentinel,Digitonal,"Ambient Zone 2 (Just Music Café, Vol. 5)",12,319360,calm,0.246,0.125,0,-20.002,0,0.0389,0.982,0.944,0.0631,0.0345,66.05
+1dxdP0wgmTpkCKHrompBE6,On Wings,Afterhere,"Ambient Zone 2 (Just Music Café, Vol. 5)",10,229160,calm,0.133,0.022,2,-27.841,0,0.0382,0.975,0.964,0.0994,0.0373,68.512
+3cDozGKxhqNZsONgiKrTno,Only in the Dark,Ben Lukas Boysen,Gravity,0,209623,calm,0.145,0.00198,8,-36.465,0,0.0429,0.974,0.846,0.113,0.2,67.332
+06X1J1lPc0boVEpxG6UOCB,Requiem On Frankfort Ave,Eluvium,Copia,0,161026,calm,0.112,0.0657,2,-19.837,1,0.0495,0.947,0.931,0.112,0.0354,56.75
+7aS8e5XKVWDcbyn06mF9fz,Candles,Jon Hopkins,Monsters (Original Motion Picture Soundtrack),54,148546,calm,0.298,0.148,3,-26.245,0,0.0438,0.868,0.843,0.11,0.0603,108.658
+1TCkrnjuurf0DNLLoJxVyd,Poa Alpina,Biosphere,Substrata,0,250961,calm,0.171,0.0284,7,-35.244,0,0.0374,0.911,0.946,0.119,0.128,130.284
+4o7YmNo3syL8mtvHNhwDuL,Untitled #3 (Samskeyti),Sigur Rós,( ),0,393400,calm,0.115,0.204,3,-14.414,1,0.0313,0.802,0.901,0.105,0.0374,90.385
+08adWEXNC4zjhKZZuAVMo5,Beyond the Sky,Emilio Bonito,Beyond the Sky,22,212000,calm,0.509,0.395,9,-13.63,1,0.0322,0.353,0.909,0.105,0.0651,144.025
