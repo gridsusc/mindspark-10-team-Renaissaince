@@ -7,7 +7,7 @@ from PIL import Image
 from transformers import pipeline
 model = tf.keras.models.load_model('xcep.h5')
 emotion = pipeline('sentiment-analysis', model='arpanghoshal/EmoRoBERTa')
-
+d = pd.read_csv("songs.csv")
 st.set_page_config(
     page_title="Emotion recognition",
     page_icon="🧊",
@@ -68,19 +68,33 @@ if st.session_state.img:
 
         if res.argmax() ==0:
             st.write("anger")
+            st.write("Recommended songs for you:")
+            st.write(d[d["emotion"] == "Dark" or d["emotion"] == "Aggressive"]["song"])
 
         elif res.argmax() ==1:
             st.write("disgust")
+            st.write("Recommended songs for you:")
+            st.write(d[d["emotion"] == "Dark"][["song",'artist']][0:5])
         elif res.argmax() == 2:
             st.write("fear")
+            st.write("Recommended songs for you:")
+            st.write(d[d["emotion"] == "Relaxing"][["song",'artist']][0:5])
         elif res.argmax() == 3:
             st.write("happiness")
+            st.write("Recommended songs for you:")
+            st.write(d[d["emotion"]=="Happy"][["song",'artist']][0:5])
         elif res.argmax() == 4:
             st.write("sadness")
+            st.write("Recommended songs for you:")
+            st.write(d[d["emotion"] == "Dark"]["song"])
         elif res.argmax() == 5:
             st.write("surprise")
+            st.write("Recommended songs for you:")
+            st.write(d[d["emotion"] == "Happy" or d["emotion"] == "Energetic"][["song",'artist']][0:5])
         elif res.argmax() == 6:
             st.write("neutral")
+            st.write("Recommended songs for you:")
+            st.write(d[d["emotion"] == "Energetic"][["song",'artist']][0:5])
 
 if st.session_state.spe:
     r = sr.Recognizer()
@@ -95,3 +109,19 @@ if st.session_state.spe:
             st.write("You are saying:",text['alternative'][0]['transcript'])
             emotion_labels = emotion(text['alternative'][0]['transcript'])
             st.write("Your emotion is:", emotion_labels[0]["label"])
+            a = emotion_labels[0]["label"]
+            if a in ['neutral','excitement','desire', 'curiosity','realization']:
+                st.write("Recommended songs for you:")
+                st.write(d[d["emotion"] == "Energetic"][["song",'artist']][0:5])
+            elif a in ['joy','approval','love', 'amusement','optimism']:
+                st.write("Recommended songs for you:")
+                st.write(d[d["emotion"] == "Happy"][["song",'artist']][0:5])
+            elif a in ['remorse','sadness','confusion']:
+                st.write("Recommended songs for you:")
+                st.write(d[d["emotion"] == "Dark"][["song",'artist']][0:5])
+            elif a in ['anger','disapproval','annoyance']:
+                st.write("Recommended songs for you:")
+                st.write(d[d["emotion"] == "Aggressive"][["song",'artist']][0:5])
+            elif a in ['disappointment','disgust']:
+                st.write("Recommended songs for you:")
+                st.write(d[d["emotion"] == "Relaxing"][["song",'artist']][0:5])
