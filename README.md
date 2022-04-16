@@ -11,5 +11,6 @@ Disclaimer:
 Instruction: 
   1. We cannot upload our saved model for image classification due to size limit. Please run emotion_recog.ipynb file first and save the model xcep.h5
      We provide a Google Drive link for the model: https://drive.google.com/file/d/1hNq1qsNgjeD1G9fDgGtFIhcGGKA_ChGZ/view?usp=sharing
-  3. To run the web application, open a terminal/cmd in this folder and run "streamlit run deplo.py"
-  4. Please check the required libraries for the web application in requirement.txt
+  2. To run the web application, open a terminal/cmd in this folder and run "streamlit run deplo.py"
+  3. Please check the required libraries for the web application in requirement.txt
+  4. PPT: https://docs.google.com/presentation/d/1N9LmbChJVLTvkGsmS4XmFK9q3yDGBGfBTTWan9RJrPo/edit#slide=id.g10365d5da27_0_379
